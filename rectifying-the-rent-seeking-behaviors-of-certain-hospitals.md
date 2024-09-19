@@ -1,4 +1,4 @@
-## rent-seeking behaviors of certain hospitals 
+## Rectifying The Rent-seeking Behaviors of Certain Hospitals 
 
 Within India, and also in general, accredited private and public hospitals provide an essential service to the public at large. It is true that in a hospital setting, the patient’s life and limb are constantly at stake and the patient is typically at risk, of suffering hospital acquired diseases or injuries. Wrongful death at a hospital due to medical malpractice, is perhaps one of the worst risks that a patient can suffer. With such palpable risks to patients and to their families, the only way to ensure patient safety and also the safety of their next-of-kin in a clinical setting, is to maintain the highest standard of quality in modern medicine and within ethical management of all hospital related practices. 
 
