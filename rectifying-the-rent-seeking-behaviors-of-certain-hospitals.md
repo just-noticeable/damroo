@@ -30,7 +30,7 @@ In the above type of cheating and scam, the medical staff do not provide any "va
 
 The extra charges for medical products and services in a single room, are directly and entirely a form of theft, by manipulating the Consumer via marketing tactics to suggest that the medical treatment they would get in a single accommodation room, would somehow be more customized or effective.
 
-The unfair trade practices of overcharging Consumers using marketing gimmicks, and the force of suggestion about the basic right to privacy being a "Consumer Choice", that is supposedly to be given at a premium cost to the “Discerning Consumer”, is a rampant problem throughout most hospitals and clinics in India. This seems to be mainly because the cast and class based social system of "First Rate Citizens versus, Second or Third Rate Citizens", is still very deeply embedded in societal norms and culture. 
+The unfair trade practices of overcharging Consumers using marketing gimmicks, and unethically using the force of suggestion about the Basic Right to Privacy being a "Consumer Choice", is a rampant problem throughout most hospitals and clinics in India. That so called Consumer Choice for Privacy, is supposedly to be given at a premium cost to the “Discerning Consumer”. This seems to be mainly because the discriminatory, cast and class based socio-economic system of preferentially treating First Rate Citizens with better dignity than so-called Second or Third Rate Citizens, is still very deeply embedded in societal norms and culture. 
 
 <br>
 
