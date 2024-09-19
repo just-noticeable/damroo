@@ -5,4 +5,6 @@
  ढिंढोरा पीटने के लिए सिर्फ यह डमरू मिला। 
 
 
+### [2024-09-04 | Foundational Faults and Flaws Within Corporate Policies of Medical and Healthcare Providers in India](https://github.com/my-realm/musings/blob/main/current-medical-industry.md) 
+
 ### [2024-09-19 | Rectifying The Rent-seeking Behaviors of Certain Hospitals](https://github.com/just-noticeable/damroo/blob/main/rectifying-the-rent-seeking-behaviors-of-certain-hospitals.md) 
