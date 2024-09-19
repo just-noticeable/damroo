@@ -18,7 +18,7 @@ That predatory behavior involves "rent-seeking" practices wherein the patient is
 
 More specifically, patients <ins>are not</ins> renters or lodgers or boarders, in any hospital or a clinic. Patients and their next-of-kin do not sign a “renters agreement”, before the patients receive any kind of a treatment or service at a healthcare provider's physical location. And yet, various hospitals and clinics throughout India have continued to cunningly up-sell the identical form of healthcare accommodations available in other "accredited and recognized" hospitals, at a hiked premium with unfair surcharges. Those problematic hospitals have been able to conduct such unfair trade practices using cunning marketing tactics, only to exploit and extract "rental profits" from patients who are in dire need for legitimate healthcare goods and services. 
 
-The predatory and unfair trade practice of those types of culpable hospitals includes: 
+The predatory and unfair trade practices of those types of culpable hospitals includes: 
 
 - Positioning rooms with a single bed for patient accommodation in the hospital, as a “luxury” or a “deluxe” option, compared to shared room accommodations for other patients. 
 
