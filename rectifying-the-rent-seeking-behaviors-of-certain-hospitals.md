@@ -38,7 +38,7 @@ The unfair trade practices of overcharging Consumers using marketing gimmicks, a
 >
 >The fiduciary and civic duties of all public facing private and government operated hospitals, that are healthcare providers to the public at large, have the irrevocable responsibility to make equality in healthcare, accessible and affordable to the communities, districts, states, and the national or international regions those healthcare providers choose to serve. That responsibility also naturally includes the duty to provide healthcare products and services to patients, without gouging, pilfering, or frustrating any Consumers, i.e. members of the general public. 
 >
->Without this form of a rectification being implemented, every medical and managerial staff of hospitals practicing the unfair activity of extracting rents from patients or the families of patients, will remain complicit that form of cheating and price gouging. They will remain liable and culpable for cashing those unearned incomes.  
+>Without this form of a rectification being implemented, every medical and managerial staff of hospitals practicing the unfair activity of extracting rents from patients or the families of patients, will remain complicit in that form of cheating and price gouging. They will remain liable and culpable for cashing those unearned incomes.  
 
 
 <br>
@@ -46,3 +46,8 @@ The unfair trade practices of overcharging Consumers using marketing gimmicks, a
 Hospitals and clinics belong to the "medical and pharmaceutical industry", and they most certainly are not lodges or hotels or motels, belonging to the "general services industry." This is because the existent risk of loss of life or limb, to the patient in the medical and pharmaceutical industry, necessitates that the business operations and trade practices of the healthcare provider be above board, compassionate, and in good-faith, at all times. Resorts, hostels, lodges, motels, and hotels belonging to the "services industry" or to the "hospitality and restaurant industry", do not need to constantly provide that level of care to their Consumers the way healthcare providers do. 
 
 More importantly, healthcare products and services are never supposed to be sold under the guise of “hospitality” by using trickery or treachery, or any type of false advertisements, specifically because of the potential for irreparable damages to public health and safety that can occur from erroneous healthcare providers. 
+
+
+<div align="center">
+- * * * - 
+</div>
