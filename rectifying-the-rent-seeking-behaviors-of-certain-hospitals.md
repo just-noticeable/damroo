@@ -49,5 +49,5 @@ More importantly, healthcare products and services are never supposed to be sold
 
 
 <div align="center">
-- * * * - 
+* * * * * 
 </div>
