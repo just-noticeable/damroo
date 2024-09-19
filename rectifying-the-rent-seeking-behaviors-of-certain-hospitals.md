@@ -1,5 +1,9 @@
 ## Rectifying The Rent-seeking Behaviors of Certain Hospitals 
 
+<strong><sub>Copyright: 2024 | Sameer A. Khan | All rights reserved.</sub></strong> 
+
+---
+
 Within India, and also in general, accredited private and public hospitals provide an essential service to the public at large. It is true that in a hospital setting, the patient’s life and limb are constantly at stake and the patient is typically at risk of suffering hospital acquired diseases or injuries. Wrongful death at a hospital due to medical malpractice, is perhaps one of the worst risks that a patient can suffer. With such palpable risks to patients and to their families, the only way to ensure patient safety and also the safety of their next-of-kin in a clinical setting, is to maintain the highest standard of quality in modern medicine and within ethical management of all hospital related practices. 
 
 Accredited hospitals, particularly the giant corporate ones across cities in India, also impact public health as well as public healthcare policies. They do so, in the form of members of self-regulating and self-accrediting corporations within agencies such as *National Accreditation Board for Hospitals & Healthcare Providers (NABH).* Through NABH, for the better or for the worse, corporate hospitals are able to certify and award themselves the standard of quality in healthcare services, that they intend to maintain, and are also able to lobby for changes in public healthcare polices of the Central and State Governments in India. 
