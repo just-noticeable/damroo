@@ -1,9 +1,15 @@
 # damroo
- 
- Couldn't find a "Dindora", only found this "Damroo", so the beat you are hearing is that of a little Damroo.
- 
- ढिंढोरा पीटने के लिए सिर्फ यह डमरू मिला। 
 
+<div align="center">
+
+Couldn't find a "Dindora", only found this "Damroo." 
+So the beat you are hearing is that of a little Damroo.
+
+ढिंढोरा पीटने के लिए सिर्फ यह डमरू मिला। 
+
+</div>
+
+## 2024
 
 ### [2024-09-04 | Foundational Faults and Flaws Within Corporate Policies of Medical and Healthcare Providers in India](https://github.com/my-realm/musings/blob/main/current-medical-industry.md) 
 
