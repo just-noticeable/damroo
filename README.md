@@ -2,10 +2,10 @@
 
 <div align="center">
 
-Couldn't find a "Dindora", only found this "Damroo." 
-So the beat you are hearing is that of a little Damroo.
+<p>Couldn't find a "Dindora", only found this "Damroo." <br />
+So the beat you can hear right now, is that of a little Damroo.</p>
 
-ढिंढोरा पीटने के लिए सिर्फ यह डमरू मिला। 
+<p>ढिंढोरा पीटने के लिए सिर्फ यह डमरू मिला।</p> 
 
 </div>
 
