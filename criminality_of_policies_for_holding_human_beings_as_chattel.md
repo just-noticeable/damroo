@@ -1,8 +1,8 @@
 ## The Criminality and Wrongful Nature of Any Policy or Norm, for Holding Human Beings as Chattel. 
 
-Date: 2nd September, 2024 | Place: Hyderabad 
+Published on: 2nd September, 2024 | Edited on: 28th September, 2024.  
 
-Author: Sameer Khan | Copyright: All rights reserved. 
+Author: Sameer A. Khan | Copyright: All rights reserved. 
 
 ---
 
