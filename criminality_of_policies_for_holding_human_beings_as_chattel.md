@@ -27,7 +27,7 @@ The applicable statutes in such cases of punishable offenses may include, and ar
 
 1. Bharatiya Nyaya Sanhita (BNS) 2023, Sections: 
 
-	- 61. Criminal conspiracy.  
+	- "61. Criminal conspiracy."  
 
 	- 111. Organised crime.  
 	
