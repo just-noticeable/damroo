@@ -29,35 +29,35 @@ The applicable statutes in such cases of punishable offenses may include, and ar
 
 	- "61. Criminal conspiracy."  
 
-	- 111. Organised crime.  
+	- "111. Organised crime."  
 	
 	- Particularly, via the implementation and application of "enterprise resources and policies" as a multiplicative factor to the force used in wrongfully confining, or abducting a person:  
 
-		- 115. Voluntarily causing hurt.  
+		- "115. Voluntarily causing hurt."  
 		
-		- 116. Grievous hurt.  
+		- "116. Grievous hurt."  
 
-		- 125. Act endangering life or personal safety of others.  
+		- "125. Act endangering life or personal safety of others."  
 
-		- 135. Assault or criminal force in attempt to wrongfully confine a person.  
+		- "135. Assault or criminal force in attempt to wrongfully confine a person."  
 		
-		- 137. Kidnapping (of a person from lawful guardianship).  
+		- "137. Kidnapping" (of a person from lawful guardianship).  
 		
-		- 138. Abduction.  
+		- "138. Abduction."  
 
-		- 140. Kidnapping or abducting in order to murder, or for ransom, etc.  
+		- "140. Kidnapping or abducting in order to murder, or for ransom, etc."  
 		
-		- 142. Wrongfully concealing or keeping in confinement, kidnapped or abducted person.  
+		- "142. Wrongfully concealing or keeping in confinement, kidnapped or abducted person."  
 		
-		- 308. Extortion.  
+		- "308. Extortion."  
 		
-		- 316. Criminal breach of trust.  
+		- "316. Criminal breach of trust."  
 		
-		- 318. Cheating.  
+		- "318. Cheating."  
 		
-		- 351. Criminal intimidation (eg. threats via blackmail). 
+		- "351. Criminal intimidation" (eg. threats via blackmail). 
 		
-		- 357. Breach of contract to attend on and supply, wants of helpless person.  
+		- "357. Breach of contract to attend on and supply, wants of helpless person."  
 
 2. Prevention of Corruption Act 2018. 
 
