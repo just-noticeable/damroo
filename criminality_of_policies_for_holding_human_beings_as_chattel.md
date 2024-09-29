@@ -75,7 +75,7 @@ The applicable statutes in such cases of punishable offenses may include, and ar
 
 <div align="center">
   
-  **[:arrow_left: Previous Section][Prev] | [Top :arrow_up:][Top] | [Next Section :arrow_right:][Next]** 
+  **[:arrow_left: Previous Article][Prev] | [Next Article :arrow_right:][Next]** 
   
   **[Table of Content][TOC]**
 
