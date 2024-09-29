@@ -63,7 +63,7 @@ More importantly, healthcare products and services are never supposed to be sold
   **[Table of Content][TOC]**
 
   [Prev]: https://github.com/my-realm/musings/blob/main/current-medical-industry.md
-  [TOC]: /README.md#table-of-contents 
+  [TOC]: /README.md#damroo
   [Next]: /criminality_of_policies_for_holding_human_beings_as_chattel.md
 
   
