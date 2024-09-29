@@ -58,7 +58,7 @@ More importantly, healthcare products and services are never supposed to be sold
 
 <div align="center">
   
-  **[:arrow_left: Previous Section][Prev] | [Top :arrow_up:][Top] | [Next Section :arrow_right:][Next]** 
+  **[:arrow_left: Previous Article][Prev] | [Next Article :arrow_right:][Next]** 
   
   **[Table of Content][TOC]**
 
