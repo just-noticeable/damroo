@@ -80,7 +80,7 @@ The applicable statutes in such cases of punishable offenses may include, and ar
   **[Table of Content][TOC]**
 
   [Prev]: /rectifying-the-rent-seeking-behaviors-of-certain-hospitals.md
-  [TOC]: /README.md#table-of-contents 
+  [TOC]: /README.md#damroo
   
   <p>***</p>
   
