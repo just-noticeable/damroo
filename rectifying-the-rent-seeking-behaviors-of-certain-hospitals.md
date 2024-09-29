@@ -52,6 +52,21 @@ Hospitals and clinics belong, to the "medical and pharmaceutical industry", and 
 More importantly, healthcare products and services are never supposed to be sold under the guise of “hospitality” by using trickery or treachery, or any type of false advertisements, specifically because of the potential for irreparable damages to public health and safety that can occur from erroneous healthcare providers. 
 
 
+<br>  
+
+---
+
 <div align="center">
-* * <b>*</b> * * 
+  
+  **[:arrow_left: Previous Section][Prev] | [Top :arrow_up:][Top] | [Next Section :arrow_right:][Next]** 
+  
+  **[Table of Content][TOC]**
+
+  [Prev]: https://github.com/my-realm/musings/blob/main/current-medical-industry.md
+  [TOC]: /README.md#table-of-contents 
+  [Next]: /criminality_of_policies_for_holding_human_beings_as_chattel.md
+
+  
+  <p>* * <b>*</b> * *</p> 
+  
 </div>
