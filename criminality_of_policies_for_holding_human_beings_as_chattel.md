@@ -75,13 +75,13 @@ The applicable statutes in such cases of punishable offenses may include, and ar
 
 <div align="center">
   
-  **[:arrow_left: Previous Article][Prev] | [Next Article :arrow_right:][Next]** 
+  **[:arrow_left: Previous Article][Prev]** 
   
   **[Table of Content][TOC]**
 
   [Prev]: /rectifying-the-rent-seeking-behaviors-of-certain-hospitals.md
   [TOC]: /README.md#damroo
   
-  <p>***</p>
+  <p>* *<b>*</b>* *</p>
   
 </div>
