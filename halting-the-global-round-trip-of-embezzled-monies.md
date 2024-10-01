@@ -8,7 +8,7 @@ Let's continue our [discussion from earlier](https://github.com/callthis/fiction
 
 1. Then, use the sales deeds of fixed as well as more easily fungible assets purchased with dark money and shady deals, for getting legitimate business loans and lines of credit from multi-national retail banks and "start-ups", in India. 
 
-1. Using the clean money from the bank loans, business loans, and credit accounts, pay off "business expenses" such as back-taxes, penalties, fines, legal fees for lawyers and consultants, somewhat legal fees for fixers, straight up bribes to corrupt officials, and appeasement money to disgruntled employees and investors, as well as pain-in-the-neck remedy to any Consumers wielding a lawsuit.  
+1. Using the clean money from the bank loans, business loans, and credit accounts, pay off "business expenses" such as back-taxes, penalties, fines, legal fees for lawyers and consultants, somewhat legal fees for fixers, straight up bribes and gifts to corrupt officials, and appeasement money to disgruntled employees and investors, as well as pain-in-the-neck remedy to any Consumers wielding a lawsuit.  
 
 1. Next, sell the various and several fungible assets held as collateral at banks, to gullible buyers in the open market for a sizable profit, and pay the capital-gains tax on that profit (very neatly and cleanly), to then take the retained earnings from those sales to show to legitimate investors that the "healthcare" company they have invested in, is doing very well, despite having paid penalties for all sorts of professional misconduct and corporate malfeasance.  
 
