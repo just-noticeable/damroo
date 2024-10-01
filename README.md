@@ -5,7 +5,7 @@
 <p>Couldn't find a "Dindora", only found this "Damroo." <br />
 So the beat you can hear right now, is that of a little Damroo.</p>
 
-<p>ढिंढोरा पीटने के लिए सिर्फ यह डमरू मिला।</p> 
+<p>ढिंढोरा पीटने के लिए केवल यह डमरू मिला।</p> 
 
 </div>
 
