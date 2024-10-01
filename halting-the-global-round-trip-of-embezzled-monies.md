@@ -46,6 +46,12 @@ Those banks will plead innocence and "complete lack of awareness" of how various
 
 However, I do believe, that business insurance providers such as Lloyds Company of London, are about to drop particular hospitals in India as clients, and those insurance underwriters are going to "refrain" from picking up any other corporate hospitals as clients: 
 
-- that magically have, near 100% healthy "Accounts Receivables", 
+- that magically have, nearly 100% healthy "Accounts Receivables", 
 
 - or ones that do not have, a proper invoicing mechanism for payments from healthcare Consumers. 
+
+<br>  
+
+<div align="center"> 
+* * * * *
+</div>
