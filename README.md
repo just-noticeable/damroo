@@ -21,5 +21,5 @@ So the beat you can hear right now, is that of a little Damroo.</p>
 
 ### [2024-09-28 | The Criminality and Wrongful Nature of Any Policy or Norm for Holding Human Beings as Chattel](https://github.com/just-noticeable/damroo/blob/main/criminality_of_policies_for_holding_human_beings_as_chattel.md) 
 
-### [2024-09-28 | Halting The Global Round Trip of Embezzled Monies](https://github.com/just-noticeable/damroo/blob/main/halting-the-global-round-trip-of-embezzled-monies.md) 
+### [2024-10-01 | Halting The Global Round Trip of Embezzled Monies](https://github.com/just-noticeable/damroo/blob/main/halting-the-global-round-trip-of-embezzled-monies.md) 
 
