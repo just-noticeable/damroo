@@ -52,6 +52,18 @@ However, I do believe, that business insurance providers such as Lloyds Company 
 
 <br>  
 
-<div align="center"> 
-* * * * *
+---
+
+<div align="center">
+  
+  **[:arrow_left: Previous Article][Prev] | [Next Article :arrow_right:][Next]** 
+  
+  **[Table of Content][TOC]**
+
+  [Prev]: /criminality_of_policies_for_holding_human_beings_as_chattel.md
+  [TOC]: /README.md#damroo
+  [Next]: /a-closer-look-at-cghs.md
+  
+  <p>* * <b>*</b> * *</p>
+  
 </div>
