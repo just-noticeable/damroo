@@ -6,7 +6,7 @@ Throughout India, *CGHS Empanelled Hospitals* are the "within-network" providers
 
 <br>  
 
-The Directorate of CGHS is a health insurance company, and not only a Guarantor or a Surety[^1] of credit, because the said Directorate that belongs to the Government of India:  
+**The Directorate of CGHS is a Health Insurance company,** and not only a Guarantor or a Surety[^1] of credit, because the said Directorate that belongs to the Government of India:  
 
 <ol type="a">
   <li>
@@ -34,7 +34,7 @@ The Directorate of CGHS is neither registered as a Health Insurance Entity with 
 
 1. In the more specific case of dozens of Central Universities in India, innocent Consumers as members of those Universities are unfairly prevented and prohibited from getting a genuine CGHS ID Card from the Directorate of CGHS for digital clearance of MRCs. Those Consumers as ordinary Citizens are also unjustly compelled to take on the added burden of handling monthly and yearly cash-flow risks, on behalf of their Employer, while their University as a Central Government Employer clears their manually submitted MRC Records, using its unofficial version of CGHS known as a "Cash Advance Program" via the coffers of the University Grants Commission (UGC). 
 
-1. Given that a "CGHS Card" happens to be a financial instrument, issued by the Directorate of CGHS to selectively qualified Consumers, for the purposes of using that Card to obtain and consume, purchased products and services on credit, **the Directorate of CGHS is also an unregulated Credit Card Company.**  
+1. Given that a "CGHS Card" happens to be a financial instrument, issued by the Directorate of CGHS to selectively qualified Consumers, for the purposes of using that Card to obtain and consume, purchased products and services on credit, **the Directorate of CGHS is also an unregulated Credit Card company.**  
 
 1. What exactly does a healthcare organization gain from becoming a member of *CGHS Empanelled Hospitals* by joining the actual CGHS, using a legally binding contract with the Government of India that is euphemistically labeled as a Memorandum of Understanding (MoU)? Loss of sales margin on post-paid products and services? No, those healthcare providers do not incur any losses on the healthcare products and services sold to Consumers via CGHS. The healthcare organizations selected as members of CGHS, gain Customers with good or excellent credit scores, referred to those healthcare organizations from Central Government Employers. Those Customers i.e. Consumers, with good or excellent credit scores, practically never default on their medical bills, pay in cash, and are soft targets for being price gouged or extorted by certain nefarious healthcare providers. Also, the total amount on the "Final Sales Bill" for any rendered healthcare products and services based on CGHS rates, is any ways jacked up by many of the healthcare providers, using a variety of marketing tricks, hidden costs, and surcharges. 
 
