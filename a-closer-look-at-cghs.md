@@ -7,17 +7,17 @@ Throughout India, *CGHS Empanelled Hospitals* are the "within-network" providers
 The Directorate of CGHS is a health insurance company, and not only a Guarantor or a Surety[^1] of credit, because the said Directorate that belongs to the Government of India:  
 
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha">
   <li>
-	sets and publishes the price of healthcare products and services at "CGHS rates" for the amount of credit a healthcare organization (i.e. the *CGHS Empanelled Hospitals*) can give to an eventual Consumer (i.e. the Principal Debtor[^1]),  
+	sets and publishes the price of healthcare products and services at "CGHS rates" for the amount of credit a healthcare organization (i.e. the <i>CGHS Empanelled Hospitals</i>) can give to an eventual Consumer (i.e. the Principal Debtor), 
   </li>  
 
   <li>
-	decides through which retail channel and commercial partner, i.e. the *CGHS Empanelled Hospitals,* each "selectively qualified" Consumer in India can receive healthcare insurance credit from that retail channel and commercial partner,  
+	decides through which retail channel and commercial partner, i.e. the <i>CGHS Empanelled Hospitals,</i> each "selectively qualified" Consumer in India can receive healthcare insurance credit from that retail channel and commercial partner,  
   </li>  
 
   <li>
-	provides healthcare insurance coverage to Indian Citizens via its selected *CGHS Empanelled Hospitals,* but without a properly defined insurance policy of the coverage for each individual. 
+	provides healthcare insurance coverage to Indian Citizens via its selected <i>CGHS Empanelled Hospitals,</i> but without a properly defined insurance policy of the coverage for each individual. 
   </li>  
 </ol>
 
