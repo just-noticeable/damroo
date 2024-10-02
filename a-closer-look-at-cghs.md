@@ -32,7 +32,7 @@ The Directorate of CGHS is neither registered as a Health Insurance Entity with 
 
 1. Directorate of CGHS may claim that they provide "healthcare subsidy" to Consumers via selected healthcare organizations in India called *CGHS Empanelled Hospitals,* and not "healthcare insurance credit" to anyone. However, the process of submitting and awaiting for Medical Reimbursement Claims (MRCs) to be settled by a Consumer's Central Government Employer, via the CGHS, undoubtedly and indisputably causes financial credit to be issued to Consumers from the Reserve Bank of India's accounts for CGHS, for handling time-sensitive and market based risks in that process.
 
-1. In the more specific case of dozens of Central Universities in India, innocent Consumers as members of those Universities are unfairly prevented and prohibited from getting a genuine CGHS ID Card from the Directorate of CGHS for digital clearance of MRCs. Those Consumers as ordinary Citizens are also unjustly compelled to take on the added burden of handling monthly and yearly cash-flow risks on behalf of their Employer, while their University as a Central Government Employer clears their manually submitted MRC Records, using its unofficial version of CGHS known as a "Cash Advance Program" via the coffers of the University Grants Commission (UGC). 
+1. In the more specific case of dozens of Central Universities in India, innocent Consumers as members of those Universities are unfairly prevented and prohibited from getting a genuine CGHS ID Card from the Directorate of CGHS for digital clearance of MRCs. Those Consumers as ordinary Citizens are also unjustly compelled to take on the added burden of handling monthly and yearly cash-flow risks, on behalf of their Employer, while their University as a Central Government Employer clears their manually submitted MRC Records, using its unofficial version of CGHS known as a "Cash Advance Program" via the coffers of the University Grants Commission (UGC). 
 
 1. Given that a "CGHS Card" happens to be a financial instrument, issued by the Directorate of CGHS to selectively qualified Consumers, for using that Card to obtain and consume, purchased products and services on credit, **the Directorate of CGHS is also an unregulated Credit Card Company.**  
 
@@ -46,6 +46,10 @@ The Directorate of CGHS is neither registered as a Health Insurance Entity with 
 
 1. These issues and problems pertaining to CGHS also impact families of employees and retirees of the Central Government's Armed Forces, when they go to a private hospital for any reason. Armed Forces personnel and staff members along with their dependents, as healthcare Consumers, utilize a program similar to CGHS at military hospitals, but they may also need to visit privately operated specialty clinics and hospitals on various occasions, for a variety of reasons. This was particularly true, during the Covid Pandemic years. Those Armed Forces members typically do not use CGHS, however there is no reason why they and their dependents wouldn't qualify for being allowed to utilize healthcare treatments at CGHS costs in *CGHS Empanelled Hospitals.* 
 
+<br>
+
 The fact of the matter is that the eventual Consumer who trusts and invests faith in CGHS for receiving health insurance credit from healthcare providers known as *CGHS Empanelled Hospitals,* has to suffer in numerous ways because of systemic faults and errors, for which, certain identifiable individuals belonging to above-mentioned Directorates and Ministries of the Central Government are responsible. 
+
+<br>
 
 [^1]: Meaning of the concepts of Surety, Principal Debtor, and Creditor which are applicable to CGHS, are defined as per law in *Section 126 of Indian Contracts Act 1872.* 
