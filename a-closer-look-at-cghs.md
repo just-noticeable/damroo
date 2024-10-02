@@ -4,11 +4,13 @@ Central Government Health Scheme (CGHS) is a Program and Entity, that is owned a
 
 Throughout India, *CGHS Empanelled Hospitals* are the "within-network" providers of healthcare products and services on credit, to qualified Consumers, via CGHS. 
 
+<br>  
+
 The Directorate of CGHS is a health insurance company, and not only a Guarantor or a Surety[^1] of credit, because the said Directorate that belongs to the Government of India:  
 
 <ol type="a">
   <li>
-	sets and publishes the price of healthcare products and services at "CGHS rates" for the amount of credit a healthcare organization (i.e. the <i>CGHS Empanelled Hospitals</i>) can give to an eventual Consumer (i.e. the Principal Debtor), 
+	sets and publishes the price of healthcare products and services at "CGHS rates" for the amount of credit a healthcare organization (i.e. the <i>CGHS Empanelled Hospitals</i>) can give to an eventual Consumer (i.e. the Principal Debtor),  
   </li>  
 
   <li>
@@ -20,9 +22,13 @@ The Directorate of CGHS is a health insurance company, and not only a Guarantor 
   </li>  
 </ol>
 
+<br>
+
 The Directorate of CGHS is neither registered as a Health Insurance Entity with the Insurance Regulatory and Development Authority of India (IRDAI), nor is it regulated as an insurance coverage provider, though it provides health insurance coverage to employees and retirees of Central Government Employers, and not only credit guarantee via its *CGHS Empanelled Hospitals.* Also, all Indian Citizens who avail CGHS are unfairly and unjustly prohibited from utilizing any other health insurance coverage by their Central Government Employers and the Directorate of CGHS. 
 
-Now, 
+<br>
+
+**Now:** 
 
 1. Directorate of CGHS may claim that they provide "healthcare subsidy" to Consumers via selected healthcare organizations in India called *CGHS Empanelled Hospitals,* and not "healthcare insurance credit" to anyone. However, the process of submitting and awaiting for Medical Reimbursement Claims (MRCs) to be settled by a Consumer's Central Government Employer, via the CGHS, undoubtedly and indisputably causes financial credit to be issued to Consumers from the Reserve Bank of India's accounts for CGHS, for handling time-sensitive and market based risks in that process.
 
