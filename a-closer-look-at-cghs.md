@@ -1,5 +1,9 @@
 ## A Closer Look at CGHS
 
+<strong><sub>Copyright: 2024 | Sameer A. Khan | All rights reserved.</sub></strong> 
+
+---
+
 Central Government Health Scheme (CGHS) is a Program and Entity, that is owned and operated by the Government of India's Directorate of CGHS, under the Ministry of Health and Family Welfare.  
 
 Throughout India, *CGHS Empanelled Hospitals* are the "within-network" providers of healthcare products and services on credit, to qualified Consumers, via CGHS. 
@@ -49,6 +53,25 @@ The Directorate of CGHS is neither registered as a Health Insurance Entity with 
 <br>
 
 The fact of the matter is that the eventual Consumer who trusts and invests faith in CGHS for receiving health insurance credit from healthcare providers known as *CGHS Empanelled Hospitals,* has to suffer in numerous ways because of systemic faults and errors, for which, certain identifiable individuals belonging to above-mentioned Directorates and Ministries of the Central Government are responsible. 
+
+<br>  
+
+---
+
+<div align="center">
+  
+  **[:arrow_left: Previous Article][Prev] | [Next Article :arrow_right:][Next]** 
+  
+  **[Table of Content][TOC]**
+
+  [Prev]: /halting-the-global-round-trip-of-embezzled-monies.md
+  [TOC]: /README.md#damroo
+  [Next]: /
+
+  
+  <p>* * <b>*</b> * *</p> 
+  
+</div>
 
 <br>
 
