@@ -35,7 +35,7 @@ Combination of the above-mentioned facts constitute a systemic vulnerability wit
 
 So naturally, tens of millions of healthcare Consumers in India with good or excellent credit scores, as Central Government employees and retirees: 
 
-- Supposedly gain no real healthcare insurance benefits from being *"Health Insurance Policy Holders"* via either of the CAPs, because a true and legally binding health insurance policy document, carried by qualified persons, is simply non-existent; 
+- Supposedly gain no real healthcare insurance benefits from being *"Health Insurance Policy Holders"* via either of the CAPs, because a true and legally binding health insurance policy document, carried by qualified persons, [is simply non-existent;](/ki-saaz/on_credit-means-udhaar_par.png) 
 
 - Happen to loose significant sums of money each month as cash out-of-pocket for medical expenses, on top of their monthly mandatory contributions to a CAP; 
 
