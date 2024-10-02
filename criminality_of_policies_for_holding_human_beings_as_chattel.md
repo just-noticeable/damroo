@@ -1,8 +1,8 @@
 ## The Criminality and Wrongful Nature of Any Policy or Norm for Holding Human Beings as Chattel 
 
-Published on: 2nd September, 2024 | Edited on: 28th September, 2024.  
+<sub><strong>Published on: 2nd September, 2024 | Edited on: 28th September, 2024.</strong></sub>  
 
-Author: Sameer A. Khan | Copyright: All rights reserved. 
+<sub><strong>Author: Sameer A. Khan | Copyright: All rights reserved.</strong></sub>  
 
 ---
 
@@ -75,12 +75,13 @@ The applicable statutes in such cases of punishable offenses may include, and ar
 
 <div align="center">
   
-  **[:arrow_left: Previous Article][Prev]** 
+  **[:arrow_left: Previous Article][Prev] | [Next Article :arrow_right:][Next]** 
   
   **[Table of Content][TOC]**
 
   [Prev]: /rectifying-the-rent-seeking-behaviors-of-certain-hospitals.md
   [TOC]: /README.md#damroo
+  [Next]: /halting-the-global-round-trip-of-embezzled-monies.md
   
   <p>* * <b>*</b> * *</p>
   
