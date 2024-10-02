@@ -6,11 +6,20 @@ Throughout India, *CGHS Empanelled Hospitals* are the "within-network" providers
 
 The Directorate of CGHS is a health insurance company, and not only a Guarantor or a Surety[^1] of credit, because the said Directorate that belongs to the Government of India:  
 
-**(a)** sets and publishes the price of healthcare products and services at "CGHS rates" for the amount of credit a healthcare organization (i.e. the *CGHS Empanelled Hospitals*) can give to an eventual Consumer (i.e. the Principal Debtor[^1]),  
 
-**(b)** decides through which retail channel and commercial partner, i.e. the *CGHS Empanelled Hospitals,* each "selectively qualified" Consumer in India can receive healthcare insurance credit from that retail channel and commercial partner,  
+<ol list-style-type:lower-alpha;>
+  <li font-weight:bold;>
+	sets and publishes the price of healthcare products and services at "CGHS rates" for the amount of credit a healthcare organization (i.e. the *CGHS Empanelled Hospitals*) can give to an eventual Consumer (i.e. the Principal Debtor[^1]),  
+  </li>  
 
-**(c)** provides healthcare insurance coverage to Indian Citizens via its selected *CGHS Empanelled Hospitals,* but without a properly defined insurance policy of the coverage for each individual. 
+  <li font-weight:bold;>
+	decides through which retail channel and commercial partner, i.e. the *CGHS Empanelled Hospitals,* each "selectively qualified" Consumer in India can receive healthcare insurance credit from that retail channel and commercial partner,  
+  </li>  
+
+  <li font-weight:bold;>
+	provides healthcare insurance coverage to Indian Citizens via its selected *CGHS Empanelled Hospitals,* but without a properly defined insurance policy of the coverage for each individual. 
+  </li>  
+</ol>
 
 The Directorate of CGHS is neither registered as a Health Insurance Entity with the Insurance Regulatory and Development Authority of India (IRDAI), nor is it regulated as an insurance coverage provider, though it provides health insurance coverage to employees and retirees of Central Government Employers, and not only credit guarantee via its *CGHS Empanelled Hospitals.* Also, all Indian Citizens who avail CGHS are unfairly and unjustly prohibited from utilizing any other health insurance coverage by their Central Government Employers and the Directorate of CGHS. 
 
