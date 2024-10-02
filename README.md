@@ -23,3 +23,5 @@ So the beat you can hear right now, is that of a little Damroo.</p>
 
 ### [2024-10-01 | Halting The Global Round Trip of Embezzled Monies](https://github.com/just-noticeable/damroo/blob/main/halting-the-global-round-trip-of-embezzled-monies.md) 
 
+### [2024-10-02 | A Closer Look at CGHS](https://github.com/just-noticeable/damroo/blob/main/a-closer-look-at-cghs.md) 
+
