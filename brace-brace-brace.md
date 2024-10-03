@@ -23,7 +23,7 @@ Combination of the above-mentioned facts constitute a systemic vulnerability wit
 
 - The undeniable and unchecked hemorrhage of tax-payer monies, caused by multiplication of redundant efforts and bureaucracies for CGHS, through its unofficial and unregulated versions operated by various Ministries of the GoI, cannot be immediately cauterized and remedied. 
 
-	- The copycat versions of CGHS being operated as a CAP, at "Autonomous Institutes and Entities belonging to the GoI", must be eliminated by being absorbed into the actual CGHS to ensure uniformity, and to save costs to the tax-payer as well as the Central Government, but that cannot be done so readily at this point in time. 
+	- The copycat versions of CGHS being operated as a CAP, at "Autonomous Institutes and Entities belonging to the GoI", must be eliminated by being absorbed into the actual CGHS to ensure uniformity, and to save costs to the tax-payer as well as the Central Government. However, that cannot be done so readily at this point in time. 
 	
 	- Each proper and official CAPs under a Government Directorate, upon being regulated as a legitimate insurance company (and as a credit card company), could be reconstituted to digitally interface directly with Empanelled Hospitals, and also with the out-of-network healthcare providers that aren't in the list of Empanelled Hospitals, to clear the invoiced payments of medical costs for qualified persons at those healthcare providers. This would make the settlement of MRCs largely automated via digitization, with accurate cross-referencing by regulated health insurance providers for security and fraud prevention. But such a necessary systemic overhaul, cannot be implemented readily, at this point in time.   
 
