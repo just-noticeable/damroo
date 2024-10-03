@@ -29,11 +29,11 @@ Combination of the above-mentioned facts constitute a systemic vulnerability wit
 
 - A number of healthcare providers among the Empanelled Hospitals, have continued to exploit and abuse the CAPs by denying qualified individuals healthcare credit via the respective CAPs. 
 
-	- Rectifying the culpable behaviors of those healthcare providers cannot be readily implemented via legal actions taken by responsible and competent authorities, at this point in time. The number of State Medical Councils and regulatory bodies complicit in allowing malpractices of certain corporate bosses of particular hospital chains in India, will involve years of litigation and courtroom drama, after the cover up of those malpractices is blown away.   
+	- Rectifying the culpable behaviors of those healthcare providers cannot be readily implemented via legal actions taken by responsible and competent authorities, at this point in time. The number of State Medical Councils and regulatory bodies complicit in allowing malpractices of certain corporate bosses of particular hospital chains in India, will involve years of litigation and courtroom drama, after the cover up of those malpractices, is blown away.   
 	
 <br>  
 
-So naturally, tens of millions of healthcare Consumers in India with good or excellent credit scores, as Central Government employees and retirees: 
+So naturally, tens of millions of healthcare Consumers in India who have good or excellent credit scores, as Central Government employees and retirees: 
 
 - Supposedly gain no real healthcare insurance benefits from being *"Health Insurance Policy Holders"* via either of the CAPs, because a true and legally binding health insurance policy document, carried by qualified persons, [is simply non-existent;](/ki-saaz/on_credit-means-udhaar_par.png) 
 
