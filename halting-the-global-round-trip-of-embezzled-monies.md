@@ -44,7 +44,7 @@ As such, this article and opinion piece, is mainly for organizations like Centra
 
 Those banks will plead innocence and "complete lack of awareness" of how various mechanisms of money laundering are being routed through them by particular mafia bosses of <ins>certain</ins> corporate hospitals in India. They will claim that they have and are doing the best they can, for cooperating with law enforcement agencies and directives in India, to improve credibility, safety, security, and transparency of supplying liquidity to customers within the Asian Subcontinent's financial markets. And most probably, filing charges against those bank employees, or doing anything, to arrest them will be futile and practically impossible because they are as clever as, if not more than the upper management of JP Morgan and HSBC Bank. 
 
-However, I do believe, that business insurance providers such as Lloyds Company of London, are about to drop particular hospitals in India as clients, and those insurance underwriters are going to "refrain" from picking up any other corporate hospitals as clients: 
+However, I do believe, that business insurance providers such as Lloyds Company of London, are about to drop particular hospitals in India as clients, and those insurance underwriters are going to *refrain* from picking up any other corporate hospitals as clients: 
 
 - that magically have, nearly 100% healthy "Accounts Receivables", 
 
