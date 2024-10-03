@@ -23,7 +23,7 @@ However, the above type of mismanagement would simply be known as a mishap due t
 
 Combination of the above-mentioned facts constitute a systemic vulnerability within India's banking and insurance systems, specifically because: 
 
-- RBI's Savings Bonds are tied to the performance of those interdependent PSUs and CAPs, while having numerous retail banking products and other financial derivatives in the open markets also tied up to the annual yield of the RBI's Savings Bonds. 
+- RBI's Savings Bonds are tied to the performance of those interdependent PSUs and CAPs, while having numerous retail banking products and other financial derivatives in the open markets also pegged to the annual yield of the RBI's Savings Bonds. 
 
 	- However, creating a true buffer or a strong safety mechanism to reduce the impact of the systemic shock that could propagate as a chain-reaction in India's open financial markets, from the divestment in, or the short-selling of those largely exposed financial products by investors, may or may not be feasible at this point in time. 
 
