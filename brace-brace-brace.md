@@ -1,6 +1,8 @@
 ## Brace! Brace! Brace! 
 
->It's too late for Government of India's unregulated Cash Advance Programs (CAPs) that give out daily and monthly financial credit and insurance for healthcare expenses, to millions of employees and retirees of the Central Government throughout India, to now course-correct, and not crash into the ground.[^1] 
+>It's too late for Government of India's unregulated Cash Advance Programs (CAPs) that give out daily and monthly financial credit and insurance for healthcare expenses, to millions of employees and retirees of the Central Government throughout India, to now course-correct, and not crash into the ground.
+>
+>Will it actually matter to any bureaucrat working for a CAPs in a government office, if the irregularities and inefficiencies in their work continues to cause injuries and damages to millions of people in India? Maybe, maybe not. Will the top officials icharge of those CAPs feign indignation by saying that such an article is defamatory, while continuing to deny their responsibilities and being derelict at their duties? Most probably yes. But at the end of the day, most of those office workers in each CAPs will have the excuse to say that it is somebody else's job, to fix the rules and procedures of their institution, or to redesign their work for making it regularized and efficient.
 
 
 Let us firstly pinpoint the cause of the crash: 
@@ -52,4 +54,6 @@ Upon investigation, one might find that a sixty-year-old government worker's man
 Lastly, I wouldn't have published any of this online, if people like the employees of Hindenburg Research weren't trained to keep digging tirelessly for pay-dirt. Neither do they have the ability to give up when faced with a challenge, like some people working in government bureaucracies; nor do they have the ability to give in, when cajoled by lobbyists with gifts and bribes, like some other people working in government bureaucracies. Those maverick researchers and analysts, only have the ability to suit up or gear up, and then let things go, like a long-ranged stealthy torpedo. 
 
 
-[^1]: Will it actually matter to any bureaucrat working for a CAPs in a government office, if the irregularities and inefficiencies in their work continues to cause injuries and damages to millions of people in India? Maybe, maybe not. Will the top officials icharge of those CAPs feign indignation by saying that such an article is defamatory, while continuing to deny their responsibilities and being derelict at their duties? Most probably yes. But at the end of the day, those office workers in each CAPs will have the excuse to say that it is somebody else's job, to fix the rules and procedures of their institution, or to redesign their work for making it regularized and efficient.  
+<div align="center">
+<p>* * <b>*</b> * *</p>
+</div> 
