@@ -37,11 +37,15 @@ Combination of the above-mentioned facts constitute a systemic vulnerability wit
 
 	- The copycat versions of CGHS being operated as a CAP, at "Autonomous Institutes and Entities belonging to the GoI", must be eliminated by being absorbed into the actual CGHS to ensure uniformity, and to save costs to the tax-payer as well as the Central Government. However, that cannot be done so readily at this point in time. 
 	
-	- Each proper and official CAPs under a Government Directorate, upon being regulated as a legitimate insurance company (and as a credit card company), could be reconstituted to digitally interface directly with Empanelled Hospitals, and also with the out-of-network healthcare providers that aren't in the list of Empanelled Hospitals, to clear the invoiced payments of medical costs for qualified persons at those healthcare providers. This would make the settlement of MRCs largely automated via digitization, with accurate cross-referencing by regulated health insurance providers for security and fraud prevention. But such a necessary systemic overhaul, cannot be implemented readily, at this point in time.   
+	- Each proper and official CAPs under a Government Directorate, upon being regulated as a legitimate insurance company (and as a credit card company), could be reconstituted to digitally interface directly with Empanelled Hospitals, and also with the out-of-network healthcare providers that aren't in the list of Empanelled Hospitals, to clear the invoiced payments of medical costs for qualified persons at those healthcare providers. 
+	
+		This would make the settlement of MRCs largely automated via digitization, with accurate cross-referencing by regulated health insurance providers for security and fraud prevention. But such a necessary systemic overhaul, cannot be implemented readily, at this point in time.   
 
 - A number of healthcare providers among the Empanelled Hospitals, have continued to exploit and abuse the CAPs by denying qualified individuals healthcare credit via the respective CAPs. 
 
-	- Rectifying the culpable behaviors of those healthcare providers cannot be readily implemented via legal actions taken by responsible and competent authorities, at this point in time. The number of State Medical Councils and regulatory bodies complicit in allowing malpractices of certain corporate bosses of particular hospital chains in India, will involve years of litigation and courtroom drama, after the cover up of those malpractices, is blown away.   
+	- Rectifying the culpable behaviors of those healthcare providers cannot be readily implemented via legal actions taken by responsible and competent authorities, at this point in time. 
+	
+		The number of State Medical Councils and regulatory bodies complicit in allowing malpractices of certain corporate bosses of particular hospital chains in India, will involve years of litigation and courtroom drama, after the cover up of those malpractices, is blown away.   
 	
 <br>  
 
