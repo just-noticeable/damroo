@@ -14,7 +14,7 @@ Throughout India, *CGHS Empanelled Hospitals* are the "within-network" providers
 
 <ol type="a">
   <li>
-	sets and publishes the price of healthcare products and services at "CGHS rates" for the amount of credit a healthcare organization (i.e. the <i>CGHS Empanelled Hospitals</i>) can give to an eventual Consumer (i.e. the Principal Debtor),  
+	sets and publishes the price of healthcare products and services at "CGHS rates" for the amount of credit a healthcare organization (i.e. a <i>CGHS Empanelled Hospital</i>) can give to an eventual Consumer (i.e. the Principal Debtor),  
   </li>  
 
   <li>
@@ -22,7 +22,7 @@ Throughout India, *CGHS Empanelled Hospitals* are the "within-network" providers
   </li>  
 
   <li>
-	provides healthcare insurance coverage to Indian Citizens via its selected <i>CGHS Empanelled Hospitals,</i> but without a properly defined insurance policy of the coverage for each individual. 
+	provides healthcare insurance coverage to Indian Citizens via its selected <i>CGHS Empanelled Hospitals,</i> but without a properly defined insurance policy of the coverage for each individual Consumer. 
   </li>  
 </ol>
 
