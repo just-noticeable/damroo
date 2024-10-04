@@ -25,3 +25,5 @@ So the beat you can hear right now, is that of a little Damroo.</p>
 
 ### [2024-10-02 | A Closer Look at CGHS](https://github.com/just-noticeable/damroo/blob/main/a-closer-look-at-cghs.md) 
 
+### [2024-10-04 | Basic Concept of Credit](https://github.com/callthis/fiction/blob/master/basic-concept-of-credit.md)
+
