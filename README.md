@@ -27,5 +27,5 @@ So the beat you can hear right now, is that of a little Damroo.</p>
 
 ### [2024-10-04 | Basic Concept of Credit](https://github.com/callthis/fiction/blob/master/basic-concept-of-credit.md)
 
-### [2024-10-14 | Brace! Brace! Brace!](https://github.com/callthis/fiction/blob/master/brace-brace-brace.md)
+### [2024-10-14 | Brace! Brace! Brace!](https://github.com/just-noticeable/damroo/blob/master/brace-brace-brace.md)
 
