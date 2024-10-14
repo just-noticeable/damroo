@@ -6,6 +6,7 @@
 >
 >Will it actually matter to any bureaucrats working for a CAPs in a government office, if the irregularities and inefficiencies in their work continues to cause injuries and damages to millions of people in India? Maybe, maybe not. Will most of the top officials incharge of those CAPs feign indignation by saying that such an article is defamatory, while continuing to deny their responsibilities and being derelict at their duties because of their lack of motivation to resolve such critical issues? Most probably yes. But at the end of the day, many of those office workers in each CAPs will have the excuse to say that it is somebody else's job, to fix the rules and procedures of their institution, or to redesign their work for making it regularized and efficient.
 
+<br>
 
 Let us firstly pinpoint the cause of the crash: 
 
