@@ -1,6 +1,6 @@
 ## Brace! Brace! Brace! 
 
->Various unregulated Cash Advance Programs (CAPs) belonging to Government of India, give out daily and monthly financial credit and insurance for healthcare expenses, to millions of employees and retirees of the Central Government throughout India. It's now too late for them to course-correct, and not crash into the ground. 
+>Various unregulated Cash Advance Programs (CAPs) belonging to Government of India, give out daily and monthly financial credit and insurance for healthcare expenses, to millions of employees and retirees of the Central Government throughout India. It's now too late for those CAPs to course-correct, and not crash into the ground. 
 >
 >The best that any of us Indian Citizens can hope or expect from our Government's tragic fate at this juncture, is to brace for impact and then somehow, survive and recuperate. 
 >
