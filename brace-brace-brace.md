@@ -61,7 +61,7 @@ So naturally, tens of millions of healthcare Consumers in India who have good or
 
 - Are unfairly prevented and unjustly prohibited, from purchasing a proper health insurance plan from the market; 
 
-- And also end up giving actual credit to the inefficiencies of various CAPs via their Central Government based employers, so that the Ministry of Finance can do large-scale accounting wizardry with RBI's black-boxed accounts. 
+- And also end up giving unjustly extracted credit, to various CAPs via their Central Government based employers despite the inefficiencies of those bureaucracies, so that the Ministry of Finance can do large-scale accounting wizardry with RBI's black-boxed accounts. 
 
 <br>
 
@@ -75,7 +75,23 @@ Upon investigation, one might find that a sixty-year-old government worker's man
 
 Lastly, I wouldn't have published any of this online, if people like the employees of Hindenburg Research weren't trained to keep digging tirelessly for pay-dirt. Neither do they have the ability to give up when faced with a challenge, like some people working in government bureaucracies; nor do they have the ability to give in, when cajoled by lobbyists with gifts and bribes, like some other people working in government bureaucracies. Those maverick researchers and analysts, only have the ability to suit up, and gear up, and then let things go, like a long-ranged stealthy torpedo. 
 
+<br>
+
+---
 
 <div align="center">
-<p>* * <b>*</b> * *</p>
-</div> 
+  
+  <p>Choose your own adventure!</p> 
+  
+  **[:arrow_left: Previous Article][Prev] | [Next Article :arrow_right:][Next]** 
+  
+  **[Table of Content][TOC]**
+
+  [Prev]: https://github.com/callthis/fiction/blob/master/basic-concept-of-credit.md
+  [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
+  [Next]: https://github.com/just-noticeable/damroo/
+
+  
+  <p>* * <b>*</b> * *</p> 
+  
+</div>
