@@ -66,12 +66,12 @@ So naturally, tens of millions of healthcare Consumers in India who have good or
 <br>
 
 <div align="center">
-	<img src="/ki-saaz/on_credit-means-udhaar_par.png" width="65%"></img>
+	<img src="/ki-saaz/on_credit-means-udhaar_par.png" width="75%"></img>
 </div>
 
 <br> 
 
-Upon investigation, one might find that a sixty-year-old government worker's mandatory contribution towards health insurance into a CAP, is in the order of Rs 6,000 to Rs 7,000 (six thousand to seven thousand Rupees) per month. That level of monthly contribution or Equated Monthly Installment (EMI) as an insurance premium, would have bought the Consumer the most comprehensive yearly health insurance benefits package, worth Rs 2 Crore (Rupees 20 Million), from any of the regularized private health insurance companies in India. More importantly, it would have allowed the Consumer to visit a doctor for healthcare needs in almost any of the hundreds of good corporate hospital networks across India, by using cashless payment at each medical visit, without any hassles for clearing the invoices or bills for those medical claims. 
+Upon investigation, one might find that a sixty-year-old government worker's mandatory contribution towards health insurance into a CAP, is in the order of Rs 6,000 to Rs 7,000 (six thousand to seven thousand Rupees) per month. As a Consumer, a government worker would have been able to purchase the most comprehensive yearly health insurance benefits package, worth Rs 2 Crore (Rupees 20 Million), from any of the regularized private health insurance companies in India, with that level of monthly contribution or Equated Monthly Installment (EMI) as an insurance premium. More importantly, it would have allowed the Consumer to visit a doctor for healthcare needs in almost any of the hundreds of good corporate hospital networks across India, by using cashless payment at each medical visit, without any hassles for clearing the invoices or bills for those medical claims. 
 
 Lastly, I wouldn't have published any of this online, if people like the employees of Hindenburg Research weren't trained to keep digging tirelessly for pay-dirt. Neither do they have the ability to give up when faced with a challenge, like some people working in government bureaucracies; nor do they have the ability to give in, when cajoled by lobbyists with gifts and bribes, like some other people working in government bureaucracies. Those maverick researchers and analysts, only have the ability to suit up, and gear up, and then let things go, like a long-ranged stealthy torpedo. 
 
