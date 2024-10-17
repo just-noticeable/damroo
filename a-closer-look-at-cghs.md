@@ -18,7 +18,7 @@ Throughout India, *CGHS Empanelled Hospitals* are the "within-network" providers
   </li>  
 
   <li>
-	decides through which retail channel and commercial partner, i.e. the <i>CGHS Empanelled Hospitals,</i> each "selectively qualified" Consumer in India can receive healthcare insurance credit from that retail channel and commercial partner,  
+	decides through which retail channel and commercial partner, each "selectively qualified" Consumer in India can receive healthcare insurance credit, from its retail channel and commercial partners called, <i>CGHS Empanelled Hospitals,</i>  
   </li>  
 
   <li>
