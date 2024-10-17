@@ -41,7 +41,7 @@ Combination of the above-mentioned facts constitute a systemic vulnerability wit
 	
 	- Each proper and official CAPs under a Government Directorate, upon being regulated as a legitimate insurance company *(and as a credit card company)*, must then be reconstituted to digitally interface directly with Empanelled Hospitals, to clear the invoiced payments of medical costs for qualified Consumers who use a CGHS *(Credit)* Card for payments at those healthcare providers. 
 	
-		This would make the settlement of MRCs largely automated via digitization, with accurate cross-referencing by regulated health insurance providers for security and fraud prevention. But such a necessary systemic overhaul, cannot be implemented readily, at this point in time.   
+		This would make the settlement of MRCs largely automated via digitization, with accurate cross-referencing by regulated health insurance providers for security, and for fraud prevention. But such a necessary systemic overhaul, cannot be implemented readily, at this point in time.   
 
 - A number of healthcare providers among the Empanelled Hospitals, have continued to exploit and abuse the CAPs by denying qualified individuals healthcare credit via the respective CAPs. 
 
