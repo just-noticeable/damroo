@@ -68,7 +68,7 @@ The fact of the matter is that the eventual Consumer who trusts and invests fait
 
   [Prev]: /halting-the-global-round-trip-of-embezzled-monies.md
   [TOC]: /README.md#damroo
-  [Next]: /https://github.com/callthis/fiction/blob/master/basic-concept-of-credit.md
+  [Next]: https://github.com/callthis/fiction/blob/master/basic-concept-of-credit.md
 
   
   <p>* * <b>*</b> * *</p> 
