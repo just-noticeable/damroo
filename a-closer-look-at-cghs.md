@@ -4,7 +4,7 @@
 
 ---
 
-Central Government Health Scheme (CGHS) is a Program and Entity, that is owned and operated by the Government of India's Directorate of CGHS, under the Ministry of Health and Family Welfare.  
+Central Government Health Scheme (CGHS) is an Enterprise, a Program, and an Entity, that is owned and operated by the Government of India's Directorate of CGHS, under the Ministry of Health and Family Welfare.  
 
 Throughout India, *CGHS Empanelled Hospitals* are the "within-network" providers of healthcare products and services on credit, to qualified Consumers, via CGHS. 
 
