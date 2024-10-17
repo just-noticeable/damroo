@@ -16,11 +16,11 @@ Throughout India, *CGHS Empanelled Hospitals* are the "within-network" providers
   <li>
 	sets and publishes the price of healthcare products and services at "CGHS rates" for the amount of credit a healthcare organization (i.e. a <i>CGHS Empanelled Hospital</i>) can give to an eventual Consumer (i.e. the Principal Debtor),  
   </li>  
-
+  <br>
   <li>
 	decides through which retail channel and commercial partner, each "selectively qualified" Consumer in India can receive healthcare insurance credit, from its retail channel and commercial partners called, <i>CGHS Empanelled Hospitals,</i>  
   </li>  
-
+  <br>
   <li>
 	provides healthcare insurance coverage to Indian Citizens via its selected <i>CGHS Empanelled Hospitals,</i> but without a properly defined insurance policy of the coverage for each individual Consumer. 
   </li>  
