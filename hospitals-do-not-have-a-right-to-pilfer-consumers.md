@@ -17,7 +17,7 @@ So, forthright and swift legal actions need to be taken immediately by concerned
 <br>
 
 <div align="center">
-<strong>Organizations and individuals do not have a "right" to pilfer anyone!</strong>
+<strong>Organizations and individuals do not have "a right" to pilfer anyone!</strong>
 </div>
 
 <br>
@@ -30,7 +30,7 @@ So, forthright and swift legal actions need to be taken immediately by concerned
   
   **[Table of Content][TOC]**
 
-  [Prev]: https://github.com/callthis/fiction/blob/master/brace-brace-brace.md
+  [Prev]: https://github.com/just-noticeable/damroo/blob/main/brace-brace-brace.md
   [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
   [Next]: https://github.com/just-noticeable/damroo/
 
