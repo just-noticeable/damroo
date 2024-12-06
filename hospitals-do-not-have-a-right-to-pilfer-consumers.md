@@ -13,3 +13,24 @@ As such, it has been observed that there are certain hospital chains and groups 
 It must also be noted that, such ongoing acts of treachery and treason are being conducted against Indian citizens through the use of instruments, investments, business insurance, managerial instructions, consulting advice, and material support from national as well as *foreign multinational trade groups and business affiliates.* 
 
 So, forthright and swift legal actions need to be taken immediately by concerned authorities, to crack down upon such offensive and culpable organizations, particularly for their syndicated crimes, with suitable award of compensation and punitive damages being given by the state, to persons injured or harmed by those organized criminals. 
+
+<br>
+
+---
+
+<div align="center">
+  
+  <p>Choose your own adventure!</p> 
+  
+  **[:arrow_left: Previous Article][Prev] | [Next Article :arrow_right:][Next]** 
+  
+  **[Table of Content][TOC]**
+
+  [Prev]: https://github.com/callthis/fiction/blob/master/brace-brace-brace.md
+  [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
+  [Next]: https://github.com/just-noticeable/damroo/
+
+  
+  <p>* * <b>*</b> * *</p> 
+  
+</div>
