@@ -29,3 +29,5 @@ So the beat you can hear right now, is that of a little Damroo.</p>
 
 ### [2024-10-14 | Brace! Brace! Brace!](https://github.com/just-noticeable/damroo/blob/master/brace-brace-brace.md)
 
+### [2024-12-06 | Brace! Brace! Brace!](https://github.com/just-noticeable/damroo/blob/main/hospitals-do-not-have-a-right-to-pilfer-consumers.md)
+
