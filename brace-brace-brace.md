@@ -89,7 +89,7 @@ Lastly, I wouldn't have published any of this online, if people like the employe
 
   [Prev]: https://github.com/callthis/fiction/blob/master/basic-concept-of-credit.md
   [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
-  [Next]: https://github.com/just-noticeable/damroo/
+  [Next]: https://github.com/just-noticeable/damroo/blob/main/hospitals-do-not-have-a-right-to-pilfer-consumers.md
 
   
   <p>* * <b>*</b> * *</p> 
