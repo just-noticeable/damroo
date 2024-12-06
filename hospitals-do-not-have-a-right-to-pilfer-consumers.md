@@ -16,7 +16,9 @@ So, forthright and swift legal actions need to be taken immediately by concerned
 
 <br>
 
-**Organizations and individuals do not have a "right" to pilfer anyone!**
+<div align="center">
+<strong>Organizations and individuals do not have a "right" to pilfer anyone!</strong>
+</div>
 
 <br>
 
