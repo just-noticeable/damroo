@@ -1,9 +1,5 @@
-## Merge, Then Rebase.
-
----
-
 ```
-Acronyms:
+Acronyms used in this article:
 
 AUKUS - Australian, British, and American alliance for military and trade relations 
 
@@ -33,9 +29,11 @@ WTO   - World Trade Organization
 
 ---
 
+## Merge, Then Rebase.
+
 ### Introduction
 
-This article highlights a foundational security vulnerability in India's nation-wide financial and defense systems, that isn't yet, an emergency.
+This article highlights a foundational security vulnerability in India's nation-wide financial and defense systems, that hasn't yet, generated an emergency.
 
 To understand how and why the current version of ECHS is a national-security vulnerability for India, we can first have a look at the case of LifeLabs in Canada from the year 2017-2019.
 
@@ -70,7 +68,7 @@ The public in most countries of the world already expects government based initi
 
 So, the more valuable and appreciable thing for the current Indian Government to do, for earning the public's trust and increasing the public's confidence in the armed forces, will be to have the military chiefs acknowledge the faults of ECHS, and to then showcase the process of repairing it by having ECHS merge with CGHS. Then, by naming the merged entity as CGHS, it will be much more meaningful to have employees and retirees of the armed forces finally be served properly for all of their healthcare needs, alongside civilian members of Indian Government Employers. Doing this would also help in the merged public fund called CGHS, to become stronger and robust, and to become compliant with IRDAI regulations, by having selected military personnel working in CGHS as managers.
 
-This type of a merger that produces a better CGHS for India as a whole, would make more sense from the perspective of every Indian household and family in which a person is a member of the armed forces, and their spouse or other family members, happen to be a member of a civilian government agency. This is so that, they and their dependents in the household, would not need to think about which program (either CGHS or ECHS) would be a better option, for their household's healthcare needs, particularly if India were to have a properly functioning public enterprise called CGHS as a health insurance provider.
+This type of a merger that produces a better CGHS for India as a whole, would make more sense from the perspective of every Indian household and family in which a person is a member of the armed forces, and their spouse or other family members, happen to be a member of a civilian government agency. This is so that, they and their dependents in a household would not need to think about which program (either CGHS or ECHS) would be a better option, for their household's healthcare needs, particularly if India were to have a properly functioning public enterprise called CGHS as a health insurance provider.
 
 Also, currently, the Directorate of ECHS relies on the Directorate of CGHS to create the list of CGHS Empanelled Hospitals across India, that can be accredited as ECHS approved healthcare providers. Corporate hospitals and private clinics in India known as CGHS Empanelled Hospitals, that invariably also get accredited as ECHS Empanelled Hospitals, typically don't have to go through a process that is significantly different, in becoming an accredited hospital for either CGHS or ECHS.
 
