@@ -97,11 +97,9 @@ So, what's my interest in any of this? All that you need to know about me is tha
 <br>
 
 <div align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./canary_bird.png" alt="canary bird in full metal jacket" width="35%"></img>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./canary_bird.png" alt="canary bird in full metal jacket" width="45%"></img>
 <p><a href="https://en.wikipedia.org/wiki/Sentinel_species">Sentinel Species</a></p>
 </div>
-
-[Sentinel Species](https://en.wikipedia.org/wiki/Sentinel_species)
 
 <br>
 
