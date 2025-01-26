@@ -28,9 +28,9 @@ Injuries and damages caused by any of those services obtained from an educationa
 
 In conclusion it can be said that, educational institutes can be sued by users and Consumers of an institute's range of commercial goods and services, as per the provisions of Consumer Rights Protection Act, 2019, in the instances when the educational institutes have identifiable deficiencies or defects, especially injurious ones, within: 
 
-- the educational content and materials that those institutes have commercially advertised or imparted to any buyers or beneficiaries, 
+1. the educational content and materials that those institutes have commercially advertised or imparted to any buyers or beneficiaries, 
 
-- the other goods and services rendered by the institute that can only be obtained by becoming a paying customer or a client of the institute, or by having any other exclusive relationship or association with the institute. 
+1. the other goods and services rendered by the institute that can only be obtained by becoming a paying customer or a client of the institute, or by having any other exclusive relationship or association with the institute. 
 
 <br>
 
