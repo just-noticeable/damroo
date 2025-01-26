@@ -24,7 +24,9 @@ Furthermore, all forms of professional advise and consultation are rendered by t
 
 Injuries and damages caused by any of those services obtained from an educational institute or an educational organization, to paying customers or clients, is certainly a legal matter that can be adjudicated by a Court of Law or a Judicial Body, depending on the nature and severity of the harm done by the institute's activities, and also depending on the type of error that caused identifiable harm to Citizens, Residents, or Consumers. 
 
->It can be noted that, the judgment order in the matter of *P.T. Koshy & Anr. v. Ellen Charitable Trust & Ors.* does not have support on legal and logical grounds. Please see, ["Persons can sue educational institutes under Consumer Protection Act"](https://blog.ipleaders.in/can-sue-educational-institution-consumer-protection-act/) for an in-depth and thorough analysis of this subject matter. 
+>It can be noted that, the judgment order in the matter of *P.T. Koshy & Anr. v. Ellen Charitable Trust & Ors.* does not have support on legal and logical grounds. 
+>
+>Please see, ["Persons can sue educational institutes under Consumer Protection Act"](https://blog.ipleaders.in/can-sue-educational-institution-consumer-protection-act/) for an in-depth and thorough analysis of this subject matter. 
 
 In conclusion it can be said that, educational institutes can be sued by users and Consumers of an institute's range of commercial goods and services, as per the provisions of Consumer Rights Protection Act, 2019, in the instances when the educational institutes have identifiable deficiencies or defects, especially injurious ones, within: 
 
