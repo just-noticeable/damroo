@@ -34,4 +34,4 @@ In conclusion it can be said that, educational institutes can be sued by users a
 
 <br>
 
-[^1]: In simple terms, the "sovereignty", "integrity", and "contiguity" across time and space, of a nation such as India, are not commodities, and yet, defense and security services are indeed, services pre-paid for by Citizens and Residents, via taxes.  
+[^1]: In simple terms, the "sovereignty", "integrity", and "contiguity" across time and space, of a nation such as India, are not commodities, and yet, defense and security services are indeed, services that are pre-paid for, by Citizens and Residents, via taxes.  
