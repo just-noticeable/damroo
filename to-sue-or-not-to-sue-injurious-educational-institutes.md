@@ -1,6 +1,6 @@
 ## To Sue or Not To Sue Injurious Educational Institutes 
 
-The Indian Supreme Court's judgment in the case of ***"P.T. Koshy & Anr. v. Ellen Charitable Trust & Ors."*** about the Consumer Rights of a person who has paid for educational courses at an institute, essentially stated that, "educational institutes do not provide a *service* to any Consumers because education is not a commodity."  
+The Indian Supreme Court's judgment in the case of ***"P.T. Koshy & Anr. v. Ellen Charitable Trust & Ors."*** impacting the Consumer Rights of a person who has paid for educational courses at an institute, essentially stated that, "educational institutes do not provide a *service* to any Consumers because education is not a commodity."  
 
 Here is my critique of that statement and judgment order... 
 
@@ -36,4 +36,21 @@ In conclusion it can be said that, educational institutes can be sued by users a
 
 <br>
 
-[^1]: In simple terms, the "sovereignty", "integrity", and "contiguity" across time and space, of a nation such as India, are not commodities, and yet, defense and security services are indeed, services that have been and are being pre-paid for, by the nation's Citizens and Residents, via taxes.  
+---
+
+<div align="center">
+  
+  **[:arrow_left: Previous Article][Prev] | [Next Article :arrow_right:][Next]** 
+  
+  **[Table of Content][TOC]**
+
+  [Prev]: https://github.com/just-noticeable/damroo/blob/main/hospitals-do-not-have-a-right-to-pilfer-consumers.md
+  [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
+  [Next]: https://github.com/just-noticeable/damroo/
+
+  
+  <p>* <b>*</b> *</p> 
+  
+</div>
+
+[^1]: In simple terms, the "sovereignty", "integrity", and "contiguity" across time and space, of a nation such as India, are not commodities. And yet, defense and security services are indeed services, that have been and are being pre-paid for, by the nation's Citizens and Residents, via taxes. Services and goods rendered by State and Central Governments such as that of the *Indian Public Services Commission* which includes the commissioned services rendered by Education Boards, has been and is being paid for, by the public, via taxes.  
