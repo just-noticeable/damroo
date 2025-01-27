@@ -31,3 +31,7 @@ So the beat you can hear right now, is that of a little Damroo.</p>
 
 ### [2024-12-06 | Hospitals Do Not Have a Right to Pilfer Consumers](https://github.com/just-noticeable/damroo/blob/main/hospitals-do-not-have-a-right-to-pilfer-consumers.md)
 
+## 2025
+
+### [2025-01-26 | To Sue or Not To Sue Injurious Educational Institutes ](https://github.com/just-noticeable/damroo/blob/main/to-sue-or-not-to-sue-injurious-educational-institutes.md)
+
