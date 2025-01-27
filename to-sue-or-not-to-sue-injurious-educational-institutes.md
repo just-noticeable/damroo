@@ -4,7 +4,7 @@
 
 ---
 
-The Indian Supreme Court's judgment in the case of ***"P.T. Koshy & Anr. v. Ellen Charitable Trust & Ors."*** impacting the Consumer Rights of all persons who have paid for educational courses at any Indian institute, essentially stated that, "educational institutes do not provide a *service* to any Consumers because education is not a commodity."  
+The Indian Supreme Court's judgment in the case of ***"P.T. Koshy & Anr. v. Ellen Charitable Trust & Ors."*** impacting the Consumer Rights of all persons who have paid and are paying for educational courses at any Indian institute, essentially stated that, "educational institutes do not provide a *service* to any Consumers because education is not a commodity."  
 
 Here is my critique of that statement and judgment order... 
 
