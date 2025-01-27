@@ -1,6 +1,6 @@
 ## To Sue or Not To Sue Injurious Educational Institutes 
 
-The Indian Supreme Court's judgment in the case of ***"P.T. Koshy & Anr. v. Ellen Charitable Trust & Ors."*** impacting the Consumer Rights of a person who has paid for educational courses at an institute, essentially stated that, "educational institutes do not provide a *service* to any Consumers because education is not a commodity."  
+The Indian Supreme Court's judgment in the case of ***"P.T. Koshy & Anr. v. Ellen Charitable Trust & Ors."*** impacting the Consumer Rights of all persons who have paid for educational courses at any Indian institute, essentially stated that, "educational institutes do not provide a *service* to any Consumers because education is not a commodity."  
 
 Here is my critique of that statement and judgment order... 
 
