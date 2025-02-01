@@ -23,16 +23,20 @@ So, if an educational institute, especially a Central University in India, were 
 A loss and forfeiture of IP belonging to an educational institute such as a school or a college or a university, that has any commercial value, includes the institute's branding, logo, and flagship colors that are integral to advertising and marketing the educational services being offered to Consumers (of educational or licensed content and materials), by the educational institute.
    
 Of course, there are many more types of services that schools, colleges, and universities provide to various categories of persons affiliated with those institutes, such as: certifying the competency levels of graduates, providing housing and shelter through physical spaces and buildings, imparting socio-economic goods and financial securities, assurances of healthcare benefits and safety, rendering environmental services involving cleanliness and sanitation, job placement services, licensing services, and so many, so many more types of services to Consumers who utilize the commercial activities and functions of schools, colleges, and universities.
+
+The word "service" occurs 36 times within *the Central Universities Act, 2009, Amended up to 2024.* It does so, mostly in the context of "conditions of service" of employees such as teachers, non-teaching staff, and officers belonging to the Central Universities. The legislative statute that effectively governs the creation and operations of all Central Universities in India, has no other word or concept, other than the word and concept called "service", to define what the workers in a university can or ought to do, on a daily basis. As per this statute, the objects of a Central University "shall be to disseminate and advance knowledge by providing instructional and research facilities" which, is obviously a service.    
  
-Furthermore, all forms of professional advise and consultation are rendered by trained workers of an institute using a communicative process-driven service, to purchasers and Consumers of the marketed and advertised forms of advice sold by institutes.  
+Furthermore, all forms of professional advise and consultation, are rendered by trained workers of an institute using a communicative process-driven service, to purchasers and Consumers of the marketed and advertised forms of advice sold by institutes.  
 
 Injuries and damages caused by any of those services obtained from an educational institute or an educational organization, to paying customers or clients, is certainly a legal matter that can be adjudicated by a Court of Law or a Judicial Body, depending on the nature and severity of the harm done by the institute's activities, and also depending on the type of error that caused identifiable harm to Citizens, Residents, or Consumers. 
 
->It can be noted that, the judgment order in the matter of *P.T. Koshy & Anr. v. Ellen Charitable Trust & Ors.* does not have support on legal and logical grounds. 
+Any form of "disservice" committed by Central Universities or other educational institutes, can be and must be recognized by the Indian Judicial System as offenses committed against the paying Consumers or non-paying bystanders, who suffer negative impacts from the untoward or defective services of an educational institute. 
+
+>Therefore, it can be noted that, the Judgment Order in the matter of *P.T. Koshy & Anr. v. Ellen Charitable Trust & Ors.* does not have support on legal and logical grounds. 
 >
 >Please see, ["Persons can sue educational institutes under Consumer Protection Act"](https://blog.ipleaders.in/can-sue-educational-institution-consumer-protection-act/) for an in-depth and thorough analysis of this subject matter. 
 
-In conclusion it can be said that, educational institutes can be sued by users and Consumers of an institute's range of commercial goods and services, as per the provisions of Consumer Rights Protection Act, 2019, in the instances when the educational institutes have identifiable deficiencies or defects, especially injurious ones, within: 
+In conclusion it can be said that, educational institutes can be sued by users and Consumers of an institute's range of commercial goods and services, as per the provisions of *the Consumer Rights Protection Act, 2019,* in the instances when the educational institutes have identifiable deficiencies or defects, especially injurious ones, within: 
 
 1. the educational content and materials that those institutes have commercially advertised or imparted to any buyers or beneficiaries, 
 
