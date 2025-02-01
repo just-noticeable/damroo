@@ -29,6 +29,8 @@
 
 **Therefore,** the matter contained within *Case File Num. FA/25/2025* of Telangana State Consumer Disputes Redressal Commission (TSCDRC), is legally valid, and maintainable. 
 
+<br>
+
 ---
 
 <br>
