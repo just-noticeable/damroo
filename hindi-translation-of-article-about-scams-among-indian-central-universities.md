@@ -34,7 +34,7 @@
 
   [Prev]: https://github.com/just-noticeable/damroo/blob/main/ongoing-profound-scams-among-indian-central-universities.md
   [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
-  [Next]: https://github.com/just-noticeable/damroo/
+  [Next]: https://github.com/just-noticeable/damroo/blob/main/in-the-interests-of-public-service-consumer-awareness-and-freedom-of-expression.md
 
   
   <p>* <b>*</b> *</p> 
