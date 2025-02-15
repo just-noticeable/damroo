@@ -81,7 +81,7 @@ Each Central University in India that has invested in the shares of "Referral Ho
 
   [Prev]: https://github.com/just-noticeable/damroo/blob/main/to-sue-or-not-to-sue-injurious-educational-institutes.md
   [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
-  [Next]: https://github.com/just-noticeable/damroo/
+  [Next]: https://github.com/just-noticeable/damroo/blob/main/ongoing-profound-scams-among-indian-central-universities.md
 
   
   <p>* <b>*</b> *</p> 
