@@ -33,7 +33,13 @@ So the beat you can hear right now, is that of a little Damroo.</p>
 
 ## 2025
 
-### [2025-01-26 | To Sue or Not To Sue Injurious Educational Institutes ](https://github.com/just-noticeable/damroo/blob/main/to-sue-or-not-to-sue-injurious-educational-institutes.md)
+### [2025-01-26 | To Sue or Not To Sue Injurious Educational Institutes](https://github.com/just-noticeable/damroo/blob/main/to-sue-or-not-to-sue-injurious-educational-institutes.md)
 
-### [2025-02-01 | Illegality of Money Circulation Schemes Being Operated by Indian Central Universities ](https://github.com/just-noticeable/damroo/blob/main/illegality-of-money-circulation-schemes-being-operated-by-indian-central-universities.md)
+### [2025-02-01 | Illegality of Money Circulation Schemes Being Operated by Indian Central Universities](https://github.com/just-noticeable/damroo/blob/main/illegality-of-money-circulation-schemes-being-operated-by-indian-central-universities.md)
+
+### [2025-02-15 | Ongoing Profound Scams Among Indian Central Universities](https://github.com/just-noticeable/damroo/blob/main/ongoing-profound-scams-among-indian-central-universities.md)
+
+### [2025-02-15 | भारतीय केंद्रीय विश्वविद्यालयों में चल रहे घोटालों का सिलसिला।](https://github.com/just-noticeable/damroo/blob/main/hindi-translation-of-article-about-scams-among-indian-central-universities.md)
+
+### [2025-02-15 | In the Interests of Public Service, Consumer Awareness, and Freedom of Expression](https://github.com/just-noticeable/damroo/blob/main/in-the-interests-of-public-service-consumer-awareness-and-freedom-of-expression.md)
 
