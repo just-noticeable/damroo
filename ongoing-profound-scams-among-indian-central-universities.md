@@ -21,3 +21,22 @@ This nation-wide public issue and legal problem, is entirely tractable and solva
 Now, the culpable members of the *Executive Council* of India's Central Universities who had created and implemented such a large-scale scam, might have retired or may have passed away. But any current member of a Central University or a government ministry who tries to defend this scam, can never be protected from the Public's Eye, regardless of the type of indemnities those wrongdoers may try to shore up for evading The Law.  
 
 Most importantly, one must reckon that, History will never be kind to those who try to defend and propagate the theft and fraud, that is still being orchestrated via Cash Advance Programs for medical expenses and medical reimbursement claims, at practically each of India's Central Universities and government owned institutes for higher education.  
+
+<br>
+
+---
+
+<div align="center">
+  
+  **[:arrow_left: Previous Article][Prev] | [Next Article :arrow_right:][Next]** 
+  
+  **[Table of Content][TOC]**
+
+  [Prev]: https://github.com/just-noticeable/damroo/blob/main/to-sue-or-not-to-sue-injurious-educational-institutes.md
+  [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
+  [Next]: https://github.com/just-noticeable/damroo/blob/main/hindi-translation-of-article-about-scams-among-indian-central-universities.md
+
+  
+  <p>* <b>*</b> *</p> 
+  
+</div>
