@@ -54,7 +54,7 @@ In conclusion it can be said that, educational institutes can be sued by users a
 
   [Prev]: https://github.com/just-noticeable/damroo/blob/main/hospitals-do-not-have-a-right-to-pilfer-consumers.md
   [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
-  [Next]: https://github.com/just-noticeable/damroo/
+  [Next]: https://github.com/just-noticeable/damroo/blob/main/ongoing-profound-scams-among-indian-central-universities.md
 
   
   <p>* <b>*</b> *</p> 
