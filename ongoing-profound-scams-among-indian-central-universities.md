@@ -32,7 +32,7 @@ Most importantly, one must reckon that, History will never be kind to those who 
   
   **[Table of Content][TOC]**
 
-  [Prev]: https://github.com/just-noticeable/damroo/blob/main/to-sue-or-not-to-sue-injurious-educational-institutes.md
+  [Prev]: https://github.com/just-noticeable/damroo/blob/main/illegality-of-money-circulation-schemes-being-operated-by-indian-central-universities.md
   [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
   [Next]: https://github.com/just-noticeable/damroo/blob/main/hindi-translation-of-article-about-scams-among-indian-central-universities.md
 
