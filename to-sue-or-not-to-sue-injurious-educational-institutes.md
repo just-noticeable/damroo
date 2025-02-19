@@ -34,7 +34,7 @@ Any form of "disservice" committed by Central Universities or other educational 
 
 >Therefore, it can be noted that, the Judgment Order in the matter of *P.T. Koshy & Anr. v. Ellen Charitable Trust & Ors.* does not have support on legal and logical grounds. 
 >
->Please see, ["Persons can sue educational institutes under Consumer Protection Act"](https://blog.ipleaders.in/can-sue-educational-institution-consumer-protection-act/)[^1] for an in-depth and thorough analysis of this subject matter. 
+>Please see, ["Persons can sue educational institutes under Consumer Protection Act"](https://blog.ipleaders.in/can-sue-educational-institution-consumer-protection-act/)[^2] for an in-depth and thorough analysis of this subject matter. 
 
 In conclusion it can be said that, educational institutes can be sued by users and Consumers of an institute's range of commercial goods and services, as per the provisions of *the Consumer Rights Protection Act, 2019,* in the instances when the educational institutes have identifiable deficiencies or defects, especially injurious ones, within: 
 
@@ -63,4 +63,4 @@ In conclusion it can be said that, educational institutes can be sued by users a
 
 [^1]: In simple terms, the "sovereignty", "integrity", and "contiguity" across time and space, of a nation such as India, are not commodities. And yet, defense, intelligence, and security services are indeed services, that have been and are being pre-paid for, by the nation's Citizens and Residents, via taxes. Services and goods rendered by State and Central Governments such as that of the *Indian Public Service Commission* which includes the commissioned services rendered by Education Boards, have been and are being pre-paid for, by the public, via taxes.  
 
-[^1]: "Can you sue educational institutes [in India] under Consumer Protection Act?",  https://blog.ipleaders.in/can-sue-educational-institution-consumer-protection-act/
+[^2]: "Can you sue educational institutes [in India] under Consumer Protection Act?",  https://blog.ipleaders.in/can-sue-educational-institution-consumer-protection-act/
