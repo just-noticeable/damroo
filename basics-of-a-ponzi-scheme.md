@@ -1,10 +1,14 @@
 ## Basics of a Ponzi Scheme
 
-Suppose a person were to borrow $100 from you and tell you that they would pay it back with 10% interest in a month's time period. And then suppose, after you loaned them that money, but two months went by, without you hearing from them. So, naturally, you may want to inquire about the debt owed to. You somehow manage to catch a hold of that person, and they plead with you to give them some more time, and as a gesture of "good-faith" they return $50 to you, promising you, yet again, to return the full amount of the debt along with the additional interests owed to you, for the months of delay. 
+Suppose a person were to borrow $100 from you and tell you that they would pay it back with 10% interest in a month's time period. And then suppose, after you loaned them that money, but two months went by, without you hearing from them. So, naturally, you may want to inquire about the debt owed to you. Eventually, you somehow manage to catch a hold of that person, and they plead with you to give them some more time, and as a gesture of "good-faith" they return $50 to you, promising yet again, to return the full amount of the debt along with the additional interests owed to you, for the months of delay. 
 
-In the mean time, that person goes around and pulls the same trick with dozens or hundreds of more people. Each time, enriching themselves, and then paying off a part of the loan taken from a previous lender, with the money gained from the next lender, while pocketing the net amount. 
+In the mean time, that person goes around and pulls the same trick with dozens or hundreds of more people. Each time, enriching themselves, and then paying off a part of the loan taken from a previous lender, with the money gained from the next unsuspecting lender, while pocketing the net amount. 
 
-In a year, such a scheme can generate thousands of dollars of unearned cash, by conning hundreds of lenders. The person who cheats people by abusing the public's trust, does so, using a Ponzi Scheme, to pay off a part of the debt owed to one lender (or a creditor) by abusing the loan or credit from another lender (or a targeted victim). 
+The person who cheats people by abusing the public's trust, does so, using a Ponzi Scheme, to pay off a part of the debt owed to one lender (or a creditor) by abusing the loan or credit from another lender (or a targeted victim). Within a year, such a scheme can generate thousands of dollars of unearned cash, by conning hundreds of lenders using such an illegal money circulation scheme.
+
+---
+
+#### Ponzi Schemes Being Operated by a Group of Central Universities in India
 
 Now, suppose that cheater was an executive official of an institute or a private corporation. The borrowed loans and the owed liabilities would be attributed in the name of the company or the corporate body, by that offending official, who could even file for bankruptcy and then escape prosecution, by claiming indemnity as an executive of a company or an institute. 
 
@@ -20,11 +24,11 @@ Those executive officers, thus, pay off some of the amount owed to each successi
 
 Each month, hundreds of medical reimbursement claims are systematically "adjusted" by the university's officers, in the name of "cost-cutting measures for university budgeting via the 'discretion' of the university's executive council." 
 
-In a year, hundreds of thousands of dollars worth of money (in Indian Rupees) is thus stolen, by this simple yet elegant mechanism for orchestrating a ***Ponzi Scheme.*** 
+In a year, hundreds of thousands of dollars worth of money (in Indian Rupees) is thus stolen, by this simple yet elegant mechanism for orchestrating a ***Ponzi Scheme*** across dozens of India's central universities and higher learning institutes. 
 
 ---
 
-So, why would the claimants of medical reimbursements, want to play along in such an illicit money circulation scheme, if they are the ones who continuously keep suffering financial and equity based losses? Those poor claimants, as ordinary university members, are compelled to participate in such a scheme by the university's officials through the force of the institute's policies, and also through false-advertisements about receiving a "better deal" from the university's Cash Advance Program compared to coverage from private insurance companies. Worst of all, the retirees of Central Government entities in India, absolutely do not have any other choice but to keep incurring losses through such irregular Cash Advance Programs of their ex-employers, because of their old age. 
+So, why would the claimants of medical reimbursements in those institutes, want to play along in such an illicit money circulation scheme, if they are the ones who continuously keep suffering financial and equity based losses? Those poor claimants, as ordinary university members, are compelled to participate in such a scheme by the university's officials through the force of the institute's policies, and also through false-advertisements about receiving a "better deal" from the university's Cash Advance Program compared to utilizing coverage from any private insurance companies. Worst of all, the retirees of Central Government entities in India, absolutely do not have any other choice but to keep incurring losses through such irregular Cash Advance Programs, thrust upon them by their ex-employers, because of their old age. 
 
 Senior citizens as retired and non-unionized individuals form Central Government entities, simply cannot gain access to any private insurance company's healthcare coverage plan, because their age typically happens to be above 70 years, and there is no private insurer who will economically offer a health insurance plan to such dying and decrepit "veterans." The claimants are captive victims of an organized crime who still can't seem to be able to wise up and unite, in a just fight for their fundamental rights to protection from getting exploited and cheated by their Central Government employers. Any of them who do realize the crux of this situation, only remain despondent from also recognizing their helplessness in their frail and elderly age, in the face of such a dastardly scam. 
 
