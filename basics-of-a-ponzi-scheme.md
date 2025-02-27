@@ -1,6 +1,6 @@
 ## Basics of a Ponzi Scheme
 
-Suppose a person were to borrow $100 from you and tell you that they would pay it back with 10% interest in a month's time period. And then suppose, after you loaned them that money, but two months went by, without you hearing from them. So, naturally, you may want to inquire about the debt owed to you. Eventually, you somehow manage to catch a hold of that person, and they plead with you to give them some more time, and as a gesture of "good-faith" they return $50 to you, promising yet again, to return the full amount of the debt along with the additional interests owed to you, for the months of delay. 
+Suppose a person were to borrow $100 from you and tell you that they will pay it back with 10% interest in a month's time period. And then suppose, after you loaned them that money, but two months goes by, without you hearing from them. So, naturally, you may want to inquire about the debt owed to you. Eventually, you somehow manage to catch a hold of that cunning person, and they plead with you to give them some more time, and as a gesture of "good-faith" they return $50 to you, promising yet again, to return the full amount of the debt along with the additional interests owed to you, for the months of delay. 
 
 In the mean time, that person goes around and pulls the same trick with dozens or hundreds of more people. Each time, enriching themselves, and then paying off a part of the loan taken from a previous lender, with the money gained from the next unsuspecting lender, while pocketing the net amount. 
 
