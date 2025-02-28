@@ -38,6 +38,23 @@ Those ministers and bureaucrats of the Indian Central Government as Public Serva
 
 All of this, is supposedly an "internal matter" that will somehow be handled and resolved through "internal mechanisms" of the Indian Central Government's audit and law enforcement directorates. 
 
-Either that will happen, or there could be a series of riots in every state of the Republic because religious minorities and economically backward groups including members of Dalit communities are being surreptitiously harmed in such a systematic and targeted way, by Upper-Caste Hindu officials in-charge of India's central universities and institutions for higher education.  
+Either that will happen, or there could be a series of riots in every state of the Republic, because religious minorities and economically backward groups including members of Dalit communities are being surreptitiously harmed in such a systematic and targeted way, by officials belonging to Upper-Caste Hindu communities who are in-charge of India's central universities and institutions for higher education.  
+
+<br>
 
 ---
+
+<div align="center">
+  
+  **[:arrow_left: Previous Article][Prev] | [Next Article :arrow_right:][Next]** 
+  
+  **[Table of Content][TOC]**
+
+  [Prev]: https://github.com/just-noticeable/damroo/blob/main/in-the-interests-of-public-service-consumer-awareness-and-freedom-of-expression.md
+  [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
+  [Next]: https://github.com/just-noticeable/damroo/
+
+  
+  <p>* <b>*</b> *</p> 
+  
+</div>
