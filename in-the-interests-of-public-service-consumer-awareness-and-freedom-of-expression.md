@@ -34,7 +34,7 @@ If any Judicial Body or a Court of Law were to allow the existing trade practice
 
   [Prev]: https://github.com/just-noticeable/damroo/blob/main/hindi-translation-of-article-about-scams-among-indian-central-universities.md
   [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
-  [Next]: https://github.com/just-noticeable/damroo/
+  [Next]: https://github.com/just-noticeable/damroo/blob/main/basics-of-a-ponzi-scheme.md
 
   
   <p>* <b>*</b> *</p> 
