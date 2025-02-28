@@ -43,3 +43,5 @@ So the beat you can hear right now, is that of a little Damroo.</p>
 
 ### [2025-02-15 | In the Interests of Public Service, Consumer Awareness, and Freedom of Expression](https://github.com/just-noticeable/damroo/blob/main/in-the-interests-of-public-service-consumer-awareness-and-freedom-of-expression.md)
 
+### [2025-02-28 | Basics of a Ponzi Scheme](https://github.com/just-noticeable/damroo/blob/main/basics-of-a-ponzi-scheme.md)
+
