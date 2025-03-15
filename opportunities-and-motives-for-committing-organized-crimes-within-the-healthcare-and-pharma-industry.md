@@ -19,15 +19,16 @@ Worst of all, these endemic issues are still prevalent in India because, neither
 <table>
 <tr>
 <td>
-<p>"The boat" is already sinking <br />
+<p>"The boat" is already sinking, <br />
 in the middle of the ocean, <br />
 while having been surrounded by sharks, <br />
 with its rudder and mast broken, <br />
 with gaping holes in its hull, <br />
 and that too, without any oars. </p>
 
-<p>Though we are still together in this boat called Telangana, <br />
-at least, there is no more an issue about, <br />
+<p>Though we are still together, 
+in this boat called Telangana, <br />
+at least, there are no more issues about, <br />
 rocking or not rocking the boat. </p>
 </td>
 </tr>
