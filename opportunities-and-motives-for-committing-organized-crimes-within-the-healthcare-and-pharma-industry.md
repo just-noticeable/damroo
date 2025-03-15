@@ -19,7 +19,8 @@ Worst of all, these endemic issues are still prevalent in India because, neither
 <table>
 <tr>
 <td>
-<p>"The boat" is already sinking in the middle of the ocean, <br />
+<p>"The boat" is already sinking <br />
+in the middle of the ocean, <br />
 while having been surrounded by sharks, <br />
 with its rudder and mast broken, <br />
 with gaping holes in its hull, <br />
