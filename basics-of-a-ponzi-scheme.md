@@ -54,7 +54,7 @@ Either that will happen, or there could be a series of riots in every state of t
 
   [Prev]: https://github.com/just-noticeable/damroo/blob/main/in-the-interests-of-public-service-consumer-awareness-and-freedom-of-expression.md
   [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
-  [Next]: https://github.com/just-noticeable/damroo/
+  [Next]: https://github.com/just-noticeable/damroo/blob/main/hidden-organized-crimes-within-the-healthcare-and-pharmaceutical-industry.md
 
   
   <p>* <b>*</b> *</p> 
