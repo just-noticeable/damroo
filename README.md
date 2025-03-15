@@ -45,3 +45,5 @@ So the beat you can hear right now, is that of a little Damroo.</p>
 
 ### [2025-02-28 | Basics of a Ponzi Scheme](https://github.com/just-noticeable/damroo/blob/main/basics-of-a-ponzi-scheme.md)
 
+### [2025-03-15 | Hidden Organized Crimes Within Healthcare and Pharmaceutical Industry](https://github.com/just-noticeable/damroo/blob/main/hidden-organized-crimes-within-the-healthcare-and-pharmaceutical-industry.md)
+
