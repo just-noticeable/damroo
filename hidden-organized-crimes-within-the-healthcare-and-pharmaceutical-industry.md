@@ -40,7 +40,7 @@ and also, without any oars. </p>
 
 <p>Though we are still together, <br /> 
 in this boat called Telangana, <br />
-at least, there are no more issues about, <br />
+at least, there are no more questions about, <br />
 rocking or not rocking the boat. </p>
 </td>
 </tr>
