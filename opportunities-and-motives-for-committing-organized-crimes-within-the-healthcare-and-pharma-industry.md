@@ -14,8 +14,12 @@ Worst of all, these endemic issues are still prevalent in India because, neither
 
 <br>
 
-<div align="center" width="55%">
+<div align="center">
 
+<table>
+<tr>
+<td>&emsp; &emsp;</td>
+<td>
 "The boat" is already sinking in the middle of the ocean, 
 while having been surrounded by sharks, 
 with its rudder and mast broken, 
@@ -25,5 +29,9 @@ and that too, without any oars.
 Though we are still together in this boat called Telangana, 
 at least, there is no more an issue about, 
 rocking or not rocking the boat. 
+</td>
+<td>&emsp; &emsp;</td>
+</tr>
+</table>
 
 </div>
