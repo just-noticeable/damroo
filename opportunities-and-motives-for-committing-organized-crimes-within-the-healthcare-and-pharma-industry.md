@@ -13,9 +13,9 @@ The prevalent injustice of habitually and criminally breaching Consumer Trust, o
 Worst of all, these endemic issues are still prevalent in India because, neither the legislature, nor the judiciary, nor the medical fraternity are diligently taking the necessary steps to crack down upon, and curtail, such types of organized crimes that are being conducted openly in broad daylight, by a number of rich and politically influential corporate bosses of healthcare managers and medical practitioners, against selectively targeted communities of people belonging to religious or ethnic minority groups. 
 
 
-<div align="center">
+<div align="center" width="65%">
 
-<table width="65%">
+<table >
 <tbody>
 <tr>
 <td>
