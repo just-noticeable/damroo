@@ -18,7 +18,6 @@ Worst of all, these endemic issues are still prevalent in India because, neither
 
 <table>
 <tr>
-<td>&emsp; &emsp;</td>
 <td>
 <p>"The boat" is already sinking in the middle of the ocean, <br />
 while having been surrounded by sharks, <br />
@@ -30,7 +29,6 @@ and that too, without any oars. </p>
 at least, there is no more an issue about, <br />
 rocking or not rocking the boat. </p>
 </td>
-<td>&emsp; &emsp;</td>
 </tr>
 </table>
 
