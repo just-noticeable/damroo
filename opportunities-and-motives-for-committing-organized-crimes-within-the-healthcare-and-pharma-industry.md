@@ -1,5 +1,3 @@
-
-
 ## Opportunities and Motives for Committing Organized Crimes within The Healthcare and Pharmaceutical Industry
 
 It needs to be noted that, all goods and services sold to inpatients by a healthcare provider are by default, postpaid goods and services. 
@@ -15,7 +13,7 @@ The prevalent injustice of habitually and criminally breaching Consumer Trust, o
 Worst of all, these endemic issues are still prevalent in India because, neither the legislature, nor the judiciary, nor the medical fraternity are diligently taking the necessary steps to crack down upon, and curtail, such types of organized crimes that are being conducted openly in broad daylight, by a number of rich and politically influential corporate bosses of healthcare managers and medical practitioners, against selectively targeted communities of people belonging to religious or ethnic minority groups. 
 
 
-<div align="center">
+<div align="center" width="70%" padding="25px">
 
 "The boat" is already sinking in the middle of the ocean while having been surrounded by sharks, with its rudder and mast broken, with gaping holes in its hull, and that too without any oars. Though we are still together in this boat called Telangana, at least there is no more an issue about rocking or not rocking the boat. 
 
