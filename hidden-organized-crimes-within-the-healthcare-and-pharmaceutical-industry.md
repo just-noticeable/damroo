@@ -18,7 +18,7 @@ The prevalent injustice becomes conveniently hidden and cast aside, though it in
 
 - price gouging, 
 
-- forcing targeted victims towards paying a ransom under duress, for securing the release of the inpatient (or the dead body) from a hospital. 
+- using enterprise resources for forcing targeted victims, into paying a ransom under duress, towards the release of an inpatient (or a dead body) from a healthcare facility. 
 
 All of this is a particularly problematic issue, during legal battles about "unfairness" of such cunningly organized activities being orchestrated by willful wrongdoers, because the corporate lawyers representing bad hospitals and clinics, and even various members of law enforcement agencies, currently divert the aggrieved victims to judiciary bodies that do not have any jurisdiction to adjudicate such matters of criminal justice. The aggrieved victims then suffer attrition and worse insults to injuries, at the hands of state-sponsored judiciary bodies that are not capable of adjudicating such punishable offenses being committed by trained business managers and registered medical practitioners. 
 
