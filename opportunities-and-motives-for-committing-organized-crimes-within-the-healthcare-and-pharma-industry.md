@@ -26,7 +26,7 @@ with its rudder and mast broken, <br />
 with gaping holes in its hull, <br />
 and that too, without any oars. </p>
 
-<p>Though we are still together, 
+<p>Though we are still together, <br /> 
 in this boat called Telangana, <br />
 at least, there are no more issues about, <br />
 rocking or not rocking the boat. </p>
