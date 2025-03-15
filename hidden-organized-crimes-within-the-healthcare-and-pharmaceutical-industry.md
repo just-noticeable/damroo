@@ -24,7 +24,7 @@ in the middle of the ocean, <br />
 while having been surrounded by sharks, <br />
 with its rudder and mast broken, <br />
 with gaping holes in its hull, <br />
-and that too, without any oars. </p>
+and also, without any oars. </p>
 
 <p>Though we are still together, <br /> 
 in this boat called Telangana, <br />
@@ -34,4 +34,23 @@ rocking or not rocking the boat. </p>
 </tr>
 </table>
 
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  
+  **[:arrow_left: Previous Article][Prev] | [Next Article :arrow_right:][Next]** 
+  
+  **[Table of Content][TOC]**
+
+  [Prev]: https://github.com/just-noticeable/damroo/blob/main/basics-of-a-ponzi-scheme.md
+  [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
+  [Next]: https://github.com/just-noticeable/damroo/
+
+  
+  <p>* <b>*</b> *</p> 
+  
 </div>
