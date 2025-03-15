@@ -2,7 +2,7 @@
 
 <sub><strong>Author: Sameer A. Khan | Copyright: All rights reserved.</strong></sub> 
 
-<sub><strong>Published on: 2nd September, 2024 | Edited on: 03rd January, 2025.</strong></sub>   
+<sub><strong>Published on: 2nd September, 2024 | Edited on: 15th March, 2025.</strong></sub>   
 
 ---
 
@@ -20,7 +20,7 @@ Additionally, a "Provisional Bill" or a "Final Bill" given by a vendor to a Cons
 
 Especially in the healthcare and pharmaceutical industry, where the life and limb of a patient or care-recipient are at stake, the fair practice of furnishing a proper invoice to a Consumer would rightly respect the patient's safety and wellness ***as a priority,*** while giving the patient and the next-of-kin or the guardian, the rightful opportunity to have a fair remedy to any disputed or unfairly charged items, when required. A proper invoicing mechanism would simultaneously preserve the corporate rights, responsibilities, and indemnities of the provider of healthcare goods and services. In this way, the healthcare products and services sold by a vendor in earnest and in good-faith to Consumers through an invoice, would allow the hospital or healthcare provider to receive a fair sales price and revenue, from properly serviced and satisfied Consumers, whereby those Consumers would honour the terms and conditions of the invoicing mechanism, also, in earnest and in good-faith.  
 
-If the intentional and deliberate activity of holding a student or a child, as a piece of collateral property, were practiced by a school or a college in the education industry, for coercing the parents to pay suddenly surcharged tuition fees to secure the release of their child, then the punishable and criminal nature of that type of kidnapping, would most probably be more obvious to law enforcement agencies. However, somehow, the predatory and organized activity of holding patients or dead bodies as collateral for suddenly increased price of post-paid services has been flying under the radar of the police and the [National Accreditation Board for Hospitals & Healthcare Providers (NABH).](https://nabh.co/introduction-a4/) Such crimes are being committed by various accredited hospitals and clinics in India, for forcing the next-of-kin or the guardian of a patient to pay surcharged amounts for securing the release of their captive family member or the family member's dead body, from a culpable healthcare provider's premises.
+If the intentional and deliberate activity of holding a student or a child, as a piece of collateral property, were practiced by a school or a college in the education industry, for coercing the parents to pay suddenly surcharged tuition fees to secure the release of their child, then the punishable and criminal nature of that type of kidnapping, would most probably be more obvious to law enforcement agencies. However, somehow, the predatory and organized activity of holding patients or dead bodies as collateral for suddenly increased pricing of post-paid services has been flying under the radar of the police, and the [National Accreditation Board for Hospitals & Healthcare Providers (NABH).](https://nabh.co/introduction-a4/) Such crimes are being committed by various accredited hospitals and clinics in India, for forcing the next-of-kin or the guardian of a patient to pay surcharged amounts for securing the release of their captive family member or the family member's dead body, from a culpable healthcare provider's premises.
 
 It is evident that a corporation's systemic policy of holding a patient as leverage, by using the hospital's enterprise resources to potentially or actually force the patient into confinement, for debt collection, is entirely preemptively in bad-faith, against all Consumers from the public at large. It is plainly clear that these types of crimes entailed within existing trade practices of <ins>certain</ins> healthcare providers in India's medical and pharmaceuticals industry, directly constitute violations of medical ethos, and of managerial best practices in the industry. Such punishable offenses occurring due to deliberate trade practices of those culpable healthcare providers are a form of professional malpractice, that violates and abuses the Basic Human Rights, Fundamental Rights, Consumer Rights, as well as the Civil Rights belonging to people from the general public. Worst of all, a systemic policy of treating human beings as chattel for debt collection, directly constitutes the statutory crime of "Avaidh Vasooli" (अवैध वसूली), i.e. unlawful money collection via the organized crime of extortion, by using duress, coercion, threats, and the blackmail of keeping the vulnerable patient confined till the demanded payments are made by forcefully subdued Consumers. 
 
@@ -28,6 +28,8 @@ Therefore, hospitals or healthcare providers, that exploit and cunningly take un
 
 
 The applicable statutes in such cases of punishable offenses may include, and are not limited to: 
+
+1. Article 21, of the Constitution of India. 
 
 1. Bharatiya Nyaya Sanhita (BNS) 2023, Sections: 
 
@@ -63,11 +65,11 @@ The applicable statutes in such cases of punishable offenses may include, and ar
 		
 		- "357. Breach of contract to attend on and supply, wants of helpless person."  
 
-2. Prevention of Corruption Act 2018. 
+1. Prevention of Corruption Act 2018. 
 
-3. Indian Contracts Act 1872. 
+1. Indian Contracts Act 1872. 
 
-4. Consumer Rights Protection Act 2019. 
+1. Consumer Rights Protection Act 2019. 
 
 <br>  
 
