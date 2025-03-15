@@ -10,7 +10,7 @@ Finally it can be seen that, by conducting this type of a dishonest trade practi
 
 The prevalent injustice becomes conveniently hidden and cast aside, though it includes ongoing punishable offenses and violations of: 
 
-- habitual and criminal breaching Consumer Trust, 
+- habitually and criminally breaching Consumer Trust, 
 
 - systematically cheating baited members from the public, 
 
