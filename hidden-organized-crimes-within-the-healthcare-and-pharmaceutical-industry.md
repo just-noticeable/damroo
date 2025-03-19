@@ -33,10 +33,10 @@ Worst of all, these endemic issues are still prevalent in India because, neither
 <td>
 <p>"The boat" is already sinking, <br />
 in the middle of the ocean, <br />
-while having been surrounded by sharks, <br />
+having been surrounded by sharks, <br />
 with its rudder and mast broken, <br />
-with gaping holes in its hull, <br />
-and also, without any oars. </p>
+also with gaping holes in its hull, <br />
+upon being stranded without any oars. </p>
 
 <p>Though we are still together, <br /> 
 in this boat called Telangana, <br />
