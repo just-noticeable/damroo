@@ -40,7 +40,7 @@ Those ministers and bureaucrats of the Indian Central Government as Public Serva
 
 All of this, is supposedly an "internal matter" that will somehow be handled and resolved through "internal mechanisms" of the Indian Central Government's audit and law enforcement directorates. 
 
-Either that will happen, or there could be a series of riots in every state of the Republic, because religious minorities and economically backward groups including members of Dalit communities are being surreptitiously harmed in such a systematic and targeted way, by officials belonging to Upper-Caste Hindu communities who have been and are currently in-charge of, India's central universities and institutions for higher education.  
+Either that will happen, or there could be a series of riots in every state of the Republic, because religious minorities and socio-economically oppressed groups including members of Aadivasi and Dalit communities are being surreptitiously harmed in such a systematic and targeted way, by officials belonging to Upper-Caste Hindu communities who have been and are currently in-charge of, India's central universities and institutions for higher education.  
 
 <br>
 
