@@ -1,6 +1,6 @@
 ## In the Interests of Public Service, Consumer Awareness, and Freedom of Expression
 
-If a hospital's management were to claim that a patient's family members or the guardian, abandoned the patient at the hospital's building, without paying the hospital's medical bill or invoice for the rendered healthcare goods and services, then it is entirely the hospital's responsibility to immediately call the police to report the details of that type of an issue and a situation. 
+If a hospital's management were to claim that a patient's family members or the guardian, abandoned the patient at the hospital's building, without paying the hospital's medical bill or invoice for the rendered healthcare goods and services, then it is entirely the hospital's responsibility to immediately call the police to report the details of that type of an issue and situation. 
 
 The only reasonable and legal options available for a hospital in the event of a guardian not paying the given medical bills or invoices, for goods and services *faithfully* rendered by the hospital, due to the inability or unwillingness on part of the guardian, are to: 
 
