@@ -12,7 +12,7 @@ As such, it has been observed that there are certain hospital chains and groups 
 
 It must also be noted that, such ongoing acts of treachery and treason are being conducted against Indian citizens through the use of instruments, investments, business insurance, managerial instructions, consulting advice, and material support from national as well as *foreign multinational trade groups and business affiliates.* 
 
-So, forthright and swift legal actions need to be taken immediately by concerned authorities, to crack down upon such offensive and culpable organizations, particularly for their syndicated crimes, with suitable award of compensation and punitive damages being given by the state, to persons injured or harmed by those organized criminals. 
+So, forthright and swift legal actions need to be taken immediately by concerned authorities, to crack down upon such offensive and culpable organizations. Particularly for syndicated crimes, the government must order the current managers of those corporations, to pay the long-overdue compensations and punitive damages owed to victims and survivors, of those wrongful activities that were carried out by corporate bosses via trained employees and contractors. Not doing so, will only cause worse forms of lawlessness and corporate greed to spread throughout Indian society, like putrid gangrene. 
 
 <br>
 
