@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<p><strong>Just Noticeable Damroo</strong></p> 
+
 <p>Couldn't find a "Dindora", only found this "Damroo." <br />
 So the beat you can hear right now, is that of a little Damroo.</p>
 
