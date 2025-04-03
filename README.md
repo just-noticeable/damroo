@@ -9,6 +9,8 @@ So the beat you can hear right now, is that of a little Damroo.</p>
 
 <p>ढिंढोरा पीटने के लिए केवल यह डमरू मिला।</p> 
 
+<img width="135%" src="./little-damroo.jpg"></img>
+
 </div>
 
 ---
