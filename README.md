@@ -51,3 +51,5 @@ So the beat you can hear right now, is that of a little Damroo.</p>
 
 ### [2025-03-15 | Hidden Organized Crimes Within Healthcare and Pharmaceutical Industry](https://github.com/just-noticeable/damroo/blob/main/hidden-organized-crimes-within-the-healthcare-and-pharmaceutical-industry.md)
 
+### [2025-10-19 | CGHS and ECHS are Rightfully a Component of Central Government's Basic-Pay](https://github.com/just-noticeable/damroo/blob/main/cghs-echs-are-a-component-of-basic-pay.md)
+
