@@ -1,4 +1,4 @@
-## CGHS and ECHS are Rightfully a Component of Central Government's Basic-Pay
+## CGHS & ECHS are Rightfully a Component of Central Government's Basic-Pay
 
 In fact, Central Government Health Scheme (CGHS) and Ex-Servicemen Contributory Health Scheme (ECHS) <u>are not</u> "privileges" or "perks" offered to Central Govt workers and retirees in India, as those health insurance and basic benefits are a vital component of their basic-pay, wages, salaries, pensions, and emoluments. 
 
@@ -34,10 +34,27 @@ No doubt, too many bad bureaucrats and public servants have been colluding with 
 
 <br>
 
-<dir align="center">
+<div align="center">
 
 <p lang="hi"><strong>जब खुद पर बीतती है, तब ही इंसान को एहसास होता है |</strong></p>
 
-</dir>
+</div>
 
 <br>
+
+---
+
+<div align="center">
+  
+  **[:arrow_left: Previous Article][Prev] | [Next Article :arrow_right:][Next]** 
+  
+  **[Table of Content][TOC]**
+
+  [Prev]: https://github.com/just-noticeable/damroo/blob/main/hidden-organized-crimes-within-the-healthcare-and-pharmaceutical-industry.md
+  [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
+  [Next]: https://github.com/just-noticeable/damroo/
+
+  
+  <p>* <b>*</b> *</p> 
+  
+</div>
