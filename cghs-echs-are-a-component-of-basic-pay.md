@@ -23,7 +23,7 @@ More importantly, what inducements did the executive officers of various Central
 >[!IMPORTANT] 
 >So, are institutes like Council of Scientific and Industrial Research (CSIR) and HCU, a private corporate entity? No. Do they or their campuses belong to the Telangana State Govt? No. Are they a non-government organization? No. 
 > 
->Do entities like HCU, CSIR, and Defence Research and Development Organization (DRDO) exist because of a Central Govt legislative Act? Yes. Do they function primarily on public money from Govt of India? Yes. Do they file annual reports to the Rajya Sabha? Yes. Are they an agent of The State? Yes. So how are they not a Central Govt Entity? 
+>Do entities like HCU, CSIR, and Defence Research and Development Organization (DRDO) exist because of a Central Govt Legislative Act? Yes. Do they function primarily on public money from Govt of India? Yes. Do they file annual reports to the Rajya Sabha? Yes. Are they an agent of The State? Yes. So how are they not a Central Govt Entity? 
 >
 >They most certainly are a Central Govt Entity, and so are all Public Sector Units (PSUs) such as State Bank of India (SBI), Hindustan Aeronautics Ltd (HAL) and Bharat Heavy Electricals Ltd (BHEL). This is a fact that cannot be denied or further belaboured.  
 >
@@ -33,7 +33,7 @@ More importantly, what inducements did the executive officers of various Central
 
 Also, "CGHS/ECHS Empanelled Healthcare Organizations" are accredited and heavily subsidized by The State, due to which, the managers and medical practitioners of those healthcare organizations have already been prepaid in good-faith via tax-payer money, along with a fair profit margin for their healthcare goods and services rendered as per CGHS/ECHS.
 
-And yet, many healthcare organizations in India, while continuously maintaining their "CGHS/ECHS Empanellment" for receiving annual Govt subsidies (public monies), dishonestly claim that their staff and contractors go unpaid or underpaid, for rendering goods and services through CGHS/ECHS. Furthermore, numerous conniving staff and managers belonging to accredited hospitals in India, circumvent CGHS/ECHS norms by claiming that, one or the other medical goods or services are not covered under the government scheme, when in fact those items are clearly listed in published government orders. 
+And yet, many healthcare organizations in India, while continuously maintaining their "CGHS/ECHS Empanellment" for receiving annual Govt subsidies (public monies), dishonestly claim that their staff and contractors go unpaid or underpaid, for rendering goods and services through CGHS/ECHS. Furthermore, numerous conniving staff and managers belonging to accredited hospitals in India, circumvent CGHS/ECHS norms by claiming that, one or the other medical goods or services are not covered under the said government scheme, when in fact those items are clearly listed in published government orders. 
 
 Bad actors among healthcare organizations and colluding executives from so-called Autonomous Institutes are exploitatively taking undue advantage of the fact that, a majority of Central Govt members who are rightly entitled to CGHS/ECHS are unaware of relevant government orders and scheduled lists published within obscure parts of government websites, especially when that vital and relevant information is simply never displayed saliently in hospital websites and in their buildings where patients can learn about their rights. 
 
