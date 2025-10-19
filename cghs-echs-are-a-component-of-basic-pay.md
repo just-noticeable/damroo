@@ -15,9 +15,9 @@ Due to this type of rampant corruption, executive officers of University of Hyde
 So, are institutes like Council of Scientific and Industrial Research (CSIR) and HCU, a private corporate entity? No. Do they or their campuses belong to the Telangana State Govt? No. Are they a non-government organization? No. 
 
 >[!IMPORTANT]  
->Do entities like HCU, and Defence Research and Development Organization (DRDO) exist because of a Central Govt legislative Act? Yes. Do they function primarily on public money from Govt of India? Yes. Do they file annual reports to the Rajya Sabha? Yes. Are they an agent of The State? Yes. So how are they not a Central Govt Entity? 
+>Do entities like HCU, CSIR, and Defence Research and Development Organization (DRDO) exist because of a Central Govt legislative Act? Yes. Do they function primarily on public money from Govt of India? Yes. Do they file annual reports to the Rajya Sabha? Yes. Are they an agent of The State? Yes. So how are they not a Central Govt Entity? 
 >
->**They most certainly are a Central Govt Entity, and so are all Public Sector Units (PSUs) such as State Bank of India (SBI), Hindustan Aeronautics Ltd (HAL) and Bharat Heavy Electricals Ltd (BHEL), a fact that cannot be denied or further belaboured.**  
+>**They most certainly are a Central Govt Entity, and so are all Public Sector Units (PSUs) such as State Bank of India (SBI), Hindustan Aeronautics Ltd (HAL) and Bharat Heavy Electricals Ltd (BHEL). This is a fact that cannot be denied or further belaboured.**  
 >
 >Now, supposedly, organizations such as India's Central Universities and PSUs like HAL are "Autonomous Institutes" or "Semi-Autonomous Entities." But their so-called autonomy doesn't grant them any authority or powers that are independent of The Republic's laws, that too, while deriving legitimacy and funding from the Central Govt!
 
