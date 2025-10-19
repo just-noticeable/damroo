@@ -60,7 +60,7 @@ rocking or not rocking the boat. </p>
 
   [Prev]: https://github.com/just-noticeable/damroo/blob/main/basics-of-a-ponzi-scheme.md
   [TOC]: https://github.com/just-noticeable/damroo?tab=readme-ov-file#damroo
-  [Next]: https://github.com/just-noticeable/damroo/
+  [Next]: https://github.com/just-noticeable/damroo/blob/main/cghs-echs-are-a-component-of-basic-pay.md
 
   
   <p>* <b>*</b> *</p> 
