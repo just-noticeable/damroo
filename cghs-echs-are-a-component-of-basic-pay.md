@@ -14,18 +14,22 @@ Due to this type of rampant corruption, executive officers of University of Hyde
 
 The Legislative Assembly and Judiciary Courts in India must observe that an Army Chief of Staff cannot arbitrarily remove a platoon or any other unit of the military from ECHS, by claiming autonomy to do so. Similarly, executive officers of "Autonomous Institutes" cannot arbitrarily remove their institute from CGHS, specifically because there has never been an explicitly stated provision to do so, in any legislative Act that governs those institutes. 
 
-The types of "Employee Benefits Programs" that Govt Entities like Central Universities are operating, particularly by using the ruse of having autonomy, are highly irregular, discriminatory, and utterly arbitrary in how the members of those institutes are serviced by privately contracted healthcare organizations for discounted treatments or for "CGHS rates and tariffs", upon submitting a Medical Reimbursement Claim to the institute's officers. 
+Each of the "Employee Benefits Programs" that Govt Entities like Central Universities are operating, particularly by using the ruse of having autonomy, are highly irregular, discriminatory, and utterly arbitrary in how the members of those institutes are serviced by privately contracted healthcare organizations for discounted treatments or for "CGHS rates and tariffs", upon submitting a Medical Reimbursement Claim to the institute's officers. 
 
-More importantly, what inducements did the executive officers of various Govt Organizations have, for removing their Organization from CGHS, so as to enter into private deals with corporate hospitals and clinics? Did they receive bribes and gifts from those corporate healthcare providers to push salary or pension earners into the fangs of wolfs disguised as managers of hospitals and private insurers?  
+More importantly, what inducements did the executive officers of various Central Govt Organizations have, for removing their Organization from CGHS, so as to enter into private deals with corporate hospitals and clinics for healthcare treatments at irregular discounts and at *outdated CGHS rates and tariffs?* Did they receive bribes and gifts from those corporate healthcare providers to push salary or pension earners, into the fangs of wolfs, especially those predatory wolfs who are disguised as managers of hospitals and private insurers?  
 
-So, are institutes like Council of Scientific and Industrial Research (CSIR) and HCU, a private corporate entity? No. Do they or their campuses belong to the Telangana State Govt? No. Are they a non-government organization? No. 
+<br>
 
->[!IMPORTANT]  
+>[!IMPORTANT] 
+>So, are institutes like Council of Scientific and Industrial Research (CSIR) and HCU, a private corporate entity? No. Do they or their campuses belong to the Telangana State Govt? No. Are they a non-government organization? No. 
+> 
 >Do entities like HCU, CSIR, and Defence Research and Development Organization (DRDO) exist because of a Central Govt legislative Act? Yes. Do they function primarily on public money from Govt of India? Yes. Do they file annual reports to the Rajya Sabha? Yes. Are they an agent of The State? Yes. So how are they not a Central Govt Entity? 
 >
 >They most certainly are a Central Govt Entity, and so are all Public Sector Units (PSUs) such as State Bank of India (SBI), Hindustan Aeronautics Ltd (HAL) and Bharat Heavy Electricals Ltd (BHEL). This is a fact that cannot be denied or further belaboured.  
 >
->Now, supposedly, organizations such as India's Central Universities and PSUs like HAL are "Autonomous Institutes" or "Semi-Autonomous Entities." But their so-called autonomy doesn't grant their officers any authority or powers that are independent of The Republic's laws, that too, while deriving legitimacy and funding from the Central Govt!
+>Now, supposedly, organizations such as India's Central Universities and PSUs like HAL are "Autonomous Institutes" or "Semi-Autonomous Enterprises." But their so-called autonomy doesn't grant their officers any authority or powers that are independent of The Republic's laws, that too, while deriving legitimacy and funding from the Central Govt!
+
+<br>
 
 Also, "CGHS/ECHS Empanelled Healthcare Organizations" are accredited and heavily subsidized by The State, due to which, the managers and medical practitioners of those healthcare organizations have already been prepaid in good-faith via tax-payer money, along with a fair profit margin for their healthcare goods and services rendered as per CGHS/ECHS.
 
