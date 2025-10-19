@@ -41,7 +41,7 @@ This profound failure in proper governance and administration of public funds an
 
 So, would law enforcement agencies such as the Central Reserve Police Force (CRPF) and the National Investigation Agency (NIA) have the necessary resources, to mitigate or counteract advanced persistent threats from cyber-attacks and drone based attacks on police stations, courthouses, hospitals and other critical infrastructure in India? How will they, especially when they never received those crucial resources from Research and Development (R&D) institutes, particularly because workers in those government institutes, including those in CRPF and NIA along with their family members, are still being put under inordinate stresses and strain, and are also being thrust into jeopardy, from being habitually cheated by accredited and subsidized "CGHS/ECHS Empanelled Healthcare Organizations" like Quality Care India Ltd (i.e. Care Hospitals). 
 
-No doubt, too many bad bureaucrats and public servants have been colluding with corporate healthcare organizations for profiteering at the expense of public good and public safety. Their lawful and necessary punishments for curtailing and deterring the culpable activities of profiteering and racketeering are long-overdue. 
+No doubt, too many bad bureaucrats and public servants have been colluding with corporate healthcare organizations for profiteering at the expense of public good and public safety. Lawful and necessary punishments for curtailing and deterring their culpable activities of profiteering and racketeering are long-overdue. 
 
 <br>
 
