@@ -16,7 +16,7 @@ The Legislative Assembly and Judiciary Courts in India must observe that an Army
 
 Each of the "Employee Benefits Programs" that Govt Entities like Central Universities are operating, particularly by using the ruse of having autonomy, are highly irregular, discriminatory, and utterly arbitrary in how the members of those institutes are serviced by privately contracted healthcare organizations for discounted treatments or for "CGHS rates and tariffs", upon submitting a Medical Reimbursement Claim to the institute's officers. 
 
-More importantly, what inducements did the executive officers of various Central Govt Organizations have, for removing their Organization from CGHS, so as to enter into private deals with corporate hospitals and clinics for healthcare treatments at irregular discounts and at *outdated CGHS rates and tariffs?* Did they receive bribes and gifts from those corporate healthcare providers to push salary or pension earners, into the fangs of wolfs, especially those predatory wolfs who are disguised as managers of hospitals and private insurers?  
+More importantly, what inducements did the executive officers of various Central Govt Organizations have, for removing their respective organization from CGHS, so as to enter into private deals with corporate hospitals and clinics, for healthcare treatments at irregular discounts and *at outdated CGHS rates and tariffs?* Did they receive bribes and gifts from those corporate healthcare providers to push salary or pension earners, into the fangs of wolfs, especially those predatory wolfs who are disguised as managers of hospitals and private insurers?  
 
 <br>
 
