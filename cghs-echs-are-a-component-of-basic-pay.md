@@ -27,11 +27,11 @@ Each of the so-called employee benefits programs that Govt Entities like Central
 
 **More importantly:** What type of inducements did the executive officers of various Central Govt Organizations have, for removing their respective organizations from CGHS, only to then enter into private deals with corporate hospitals and clinics, for obtaining healthcare treatments at irregular discounts or *at outdated CGHS rates and tariffs?* Did they receive bribes and gifts from those corporate healthcare providers to push salary or pension earners, into the fangs of wolfs, especially those predatory wolfs who are disguised as managers of hospitals and private insurers?  
 
+As such, are institutes like Council of Scientific and Industrial Research (CSIR) and HCU, a private corporate entity? No. Do they or their campuses belong to the Telangana State Govt? No. Are they a non-government organization? No.
+
 <br>
 
->[!IMPORTANT] 
->So, are institutes like Council of Scientific and Industrial Research (CSIR) and HCU, a private corporate entity? No. Do they or their campuses belong to the Telangana State Govt? No. Are they a non-government organization? No. 
-> 
+>[!IMPORTANT]  
 >Do entities like HCU, CSIR, and Defence Research and Development Organization (DRDO) exist because of a Central Govt Legislative Act? Yes. Do they function primarily on public money from Govt of India? Yes. Do they file annual reports to the Rajya Sabha? Yes. Are they an agent of The State? Yes. So how are they not a Central Govt Entity? 
 >
 >They most certainly are a Central Govt Entity, and so are all Public Sector Units (PSUs) such as State Bank of India (SBI), Hindustan Aeronautics Ltd (HAL) and Bharat Heavy Electricals Ltd (BHEL). This is a fact that cannot be denied or further belaboured.  
@@ -57,6 +57,8 @@ All these types of harms and injuries caused by medically induced procedures tha
 In this manner, a series of medically induced yet clandestine harms are being done to innocent patients by maleficent bad-actors who are abusing their social stature and title of being healthcare professionals. This is how the targeted victims lured from Central Government entities like University of Hyderabad are being exploited and prayed upon in a parasitic and cunning way, by the dangerous and nefarious nexus of professionals from a particular group of healthcare organizations. The identifying characteristic of those harmful medical professionals is the fact that their healthcare organizations are privately and illegally linked with the University of Hyderabad, for providing CGHS rates to the said Central University's employees and retirees.
 
 So, would law enforcement agencies such as the Central Reserve Police Force (CRPF) and the National Investigation Agency (NIA) have the necessary resources, to mitigate or counteract advanced persistent threats from cyber-attacks and drone based attacks on police stations, courthouses, hospitals and other critical infrastructure in India? How will they, especially when they never received those crucial resources from Research and Development (R&D) institutes, particularly because workers in those government institutes, including those in CRPF and NIA along with their family members, are still being put under inordinate stresses and strain, and are also being thrust into jeopardy, from being habitually cheated by accredited and subsidized "CGHS/ECHS Empanelled Healthcare Organizations" like Quality Care India Ltd (i.e. Care Hospitals). 
+
+Given the reality of the ongoing and large-scale nature of such organized crimes in the Indian healthcare industry, the language and tone in this article cannot be "dialed down" to dilute it, or to make it sound more "polite." These types of crimes would normally shock the conscience of any sensible human being, if it were not for the currently hidden and understated attributes of these types of violations and offences, in the Public's Eye. 
 
 No doubt, too many bad bureaucrats and public servants have been colluding with corporate healthcare organizations for profiteering at the expense of public good and public safety. Lawful and necessary punishments for curtailing and deterring their culpable activities of profiteering and racketeering are long-overdue. 
 
