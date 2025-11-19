@@ -19,12 +19,14 @@ In this manner, by cunningly usurping sovereignty over the Central Govt's affair
 
 ### Update:
 
-Whether such critical issues and crimes against The State, involving the usurpation of authority by various officers among Central Universities of India, can be resolved and penalized via the Central Administrative Tribunal (CAT) is in-itself a legal conundrum. This is because the CAT can only be approached for issues pertaining to appointments of Indian public servants and for service related grievances of existing Central Government Entities such as the University Grants Commission (UGC). 
+Whether such critical issues and crimes against The State, involving the usurpation of authority by various officers among Central Universities of India, can be resolved and penalized via the Central Administrative Tribunal (CAT) is in-itself a legal conundrum. This conundrum can be addressed by observing the following facts: 
 
-However, the UGC does not service the healthcare insurance or the medical expense reimbursements of retirees and pensioners belonging to Central Universities in India. Additionally, none of the Central Universities are listed within the [*List of Corporations / Societies / Other Authorities that are Within The Purview of the CAT, Under Section 14(2) of The Administrative Tribunals Act, 1985.*](https://github.com/just-noticeable/damroo/blob/main/ki-saaz/14-india_law-central_administrative_tribunals-jurisdiction.pdf)   
+- The CAT can only be approached for issues pertaining to appointments of Indian public servants and for service related grievances of existing Central Government Entities such as the University Grants Commission (UGC). 
+
+- However, the UGC does not service the healthcare insurance or the medical expense reimbursements of retirees and pensioners belonging to Central Universities in India. Additionally, none of the Central Universities are listed within the [*List of Corporations / Societies / Other Authorities that are Within The Purview of the CAT, Under Section 14(2) of The Administrative Tribunals Act, 1985.*](https://github.com/just-noticeable/damroo/blob/main/ki-saaz/14-india_law-central_administrative_tribunals-jurisdiction.pdf)   
 
 
-See if you can find the obvious contradiction in the statements provided by University of Hyderabad's executive officers: 
+Now, see if you can find the obvious contradiction in the statements provided by University of Hyderabad's executive officers: 
 
 1. When the officers of University of Hyderabad, such as the Vice Chancellor's and the Registrar's staff along with the Assistant Registrar of the university's Finance Department are asked about, how and why did they take on the role of administering CGHS for the said university's current and ex-members, those officers claim that they have had "autonomy" to do so, and because the University of Hyderabad is not a Central Government Entity as it is an "Autonomous Body" under the UGC. 
 
@@ -32,13 +34,13 @@ See if you can find the obvious contradiction in the statements provided by Univ
 
 The legal definition and scope of "Autonomous Body/Entity" under the UGC have never been defined by any legislative act. That title of "Autonomous Body/Entity" given to any Central University is redundant and useless, because executive officers of each Central University under the UGC are any ways authorized to conduct regular business of their educational institute as per the "object of the university" as defined in *the Central Universities Act, 2009.* The phrase, "object of the university" in that statute means, objectives of the university. Other legislative acts in India such as *the University of Hyderabad Act, 1974,* are practically the same in their wording and purpose to *the Central Universities Act, 2009.*  
 
-As a matter of fact, University of Hyderabad is a Central Government Entity, and all of its current as well as ex-members have always been eligible for CGHS by virtue of being current or ex-members of the Central Govt of India. Furthermore, **the healthcare insurance for The State's employees and pensioners** is a "mandatory spending" budgeted by the Central Government of India via its corporations such as CGHS and ECHS, as it is not a "discretionary spending" in view of the laws in force. The State's corporations such as CGHS and ECHS are funded annually via tax-payer monies. 
+As a matter of fact, University of Hyderabad is a Central Government Entity, and all of its current as well as ex-members have always been eligible for CGHS by virtue of being current or ex-members of the Central Govt of India. Furthermore, **the healthcare insurance for The State's employees and pensioners** is a "mandatory spending" budgeted by the Central Government of India via its corporations such as CGHS and ECHS, as it is not a "discretionary spending" in view of the laws in force. The State's corporations such as CGHS and ECHS are funded annually via tax-payer monies, and so are the Central Universities. 
 
 So it must be noted that: Obstructing or modifying the Civil Rights of citizens in any manner, is certainly not within the ambit of the discretionary powers vested in the officers of Central Universities in India. Such obstruction of Civil Rights belonging to Indian citizens constitutes a crime against The State via usurpation of authority. 
 
-The CAT is neither authorized to direct police investigations into, nor adjudicate and penalize criminal matters such as corruption, embezzlement of public funds, fraud, and crimes against The State through the application of *the Bharatiya Nyaya Sanhita, 2023 (BNS).* 
+The CAT is neither authorized to direct police investigations into, nor adjudicate and penalize criminal matters such as corruption, embezzlement of public funds, fraud, and crimes against The State, through the application of *the Bharatiya Nyaya Sanhita, 2023 (BNS).* 
 
-All other existing avenues for legally resolving such long-standing grievous issues via the Central Universities' Vice Chancellors, and the Appellate Authorities in the UGC have already been exhausted.     
+All other existing avenues for legally resolving such long-standing grievous issues via the Central Universities' Vice Chancellors and the Appellate Authorities in the UGC, have already been exhausted.     
 
 ---
 
