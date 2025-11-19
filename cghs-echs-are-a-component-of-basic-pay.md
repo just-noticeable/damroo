@@ -19,7 +19,9 @@ In this manner, by cunningly usurping sovereignty over the Central Govt's affair
 
 ### Update:
 
-Whether this issue can be resolved via the Central Administrative Tribunal (CAT) is in-itself a legal conundrum because the CAT can only be approached for issues pertaining to appointments of Indian Administrative Service officers and for service related grievances of existing Central Government Entities such as the University Grants Commission (UGC). However, the UGC does not service the healthcare insurance or the medical expense reimbursements of retirees and pensioners belonging to Central Universities in India. Additionally, none of the Central Universities are listed within the [*List of Corporations / Societies / Other Authorities that are Within The Purview of CAT, Under Section 14(2) of The Administrative Tribunals Act, 1985.*](https://github.com/just-noticeable/damroo/blob/main/ki-saaz/14-india_law-central_administrative_tribunals-jurisdiction.pdf)   
+Whether this issue can be resolved via the Central Administrative Tribunal (CAT) is in-itself a legal conundrum because the CAT can only be approached for issues pertaining to appointments of Indian public servants and for service related grievances of existing Central Government Entities such as the University Grants Commission (UGC). 
+
+However, the UGC does not service the healthcare insurance or the medical expense reimbursements of retirees and pensioners belonging to Central Universities in India. Additionally, none of the Central Universities are listed within the [*List of Corporations / Societies / Other Authorities that are Within The Purview of CAT, Under Section 14(2) of The Administrative Tribunals Act, 1985.*](https://github.com/just-noticeable/damroo/blob/main/ki-saaz/14-india_law-central_administrative_tribunals-jurisdiction.pdf)   
 
 
 See if you can find the obvious contradiction in the statements provided by University of Hyderabad's executive officers: 
