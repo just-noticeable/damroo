@@ -19,9 +19,9 @@ In this manner, by cunningly usurping sovereignty over the Central Govt's affair
 
 ### Update:
 
-Whether this issue can be resolved via the Central Administrative Tribunal (CAT) is in-itself a legal conundrum because the CAT can only be approached for issues pertaining to appointments of Indian public servants and for service related grievances of existing Central Government Entities such as the University Grants Commission (UGC). 
+Whether such critical issues and crimes against The State, involving the usurpation of authority by various officers among Central Universities of India, can be resolved and penalized via the Central Administrative Tribunal (CAT) is in-itself a legal conundrum. This is because the CAT can only be approached for issues pertaining to appointments of Indian public servants and for service related grievances of existing Central Government Entities such as the University Grants Commission (UGC). 
 
-However, the UGC does not service the healthcare insurance or the medical expense reimbursements of retirees and pensioners belonging to Central Universities in India. Additionally, none of the Central Universities are listed within the [*List of Corporations / Societies / Other Authorities that are Within The Purview of CAT, Under Section 14(2) of The Administrative Tribunals Act, 1985.*](https://github.com/just-noticeable/damroo/blob/main/ki-saaz/14-india_law-central_administrative_tribunals-jurisdiction.pdf)   
+However, the UGC does not service the healthcare insurance or the medical expense reimbursements of retirees and pensioners belonging to Central Universities in India. Additionally, none of the Central Universities are listed within the [*List of Corporations / Societies / Other Authorities that are Within The Purview of the CAT, Under Section 14(2) of The Administrative Tribunals Act, 1985.*](https://github.com/just-noticeable/damroo/blob/main/ki-saaz/14-india_law-central_administrative_tribunals-jurisdiction.pdf)   
 
 
 See if you can find the obvious contradiction in the statements provided by University of Hyderabad's executive officers: 
@@ -34,7 +34,9 @@ The legal definition and scope of "Autonomous Body/Entity" under the UGC have ne
 
 As a matter of fact, University of Hyderabad is a Central Government Entity, and all of its current as well as ex-members have always been eligible for CGHS by virtue of being current or ex-members of the Central Govt of India. Furthermore, **the healthcare insurance for The State's employees and pensioners** is a "mandatory spending" budgeted by the Central Government of India via its corporations such as CGHS and ECHS, as it is not a "discretionary spending" in view of the laws in force. The State's corporations such as CGHS and ECHS are funded annually via tax-payer monies. 
 
-So it must be noted that: Obstructing or modifying the Civil Rights of citizens in any manner, is certainly not within the ambit of the discretionary powers vested in the officers of Central Universities in India. 
+So it must be noted that: Obstructing or modifying the Civil Rights of citizens in any manner, is certainly not within the ambit of the discretionary powers vested in the officers of Central Universities in India. Such obstruction of Civil Rights belonging to Indian citizens constitutes a crime against The State via usurpation of authority. 
+
+The CAT is not authorized to adjudicate and penalize criminal matters such as corruption, embezzlement of public funds, and crimes against The State. 
 
 ---
 
