@@ -36,7 +36,9 @@ As a matter of fact, University of Hyderabad is a Central Government Entity, and
 
 So it must be noted that: Obstructing or modifying the Civil Rights of citizens in any manner, is certainly not within the ambit of the discretionary powers vested in the officers of Central Universities in India. Such obstruction of Civil Rights belonging to Indian citizens constitutes a crime against The State via usurpation of authority. 
 
-The CAT is not authorized to adjudicate and penalize criminal matters such as corruption, embezzlement of public funds, and crimes against The State. 
+The CAT is neither authorized to direct police investigations into, nor adjudicate and penalize criminal matters such as corruption, embezzlement of public funds, fraud, and crimes against The State through the application of *the Bharatiya Nyaya Sanhita, 2023 (BNS).* 
+
+All other existing avenues for legally resolving such long-standing grievous issues via the Central Universities' Vice Chancellors, and the Appellate Authorities in the UGC have already been exhausted.     
 
 ---
 
