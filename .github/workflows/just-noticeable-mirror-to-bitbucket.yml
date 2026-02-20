@@ -44,12 +44,10 @@ jobs:
           chmod 600 ~/.ssh/known_hosts 
 
       # Step 4: Push all branches and tags to the corresponding Bitbucket repo
-      - name: Push to Bitbucket
-        env:
-          WORKSPACE_NAME="space-b"
-          
+      - name: Push to Bitbucket  
         run: |
         
+          WORKSPACE_NAME="space-b"
           echo "Workspace name = ${WORKSPACE_NAME}"
           
           # Derive the repo name from the GitHub repository variable
