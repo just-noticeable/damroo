@@ -53,9 +53,7 @@ jobs:
       # Step 4: Push all branches and tags to the corresponding Bitbucket repo
       - name: Push to Bitbucket 
         env: 
-          WORKSPACE_NAME: "just-noticeable"
-          USER_NAME: git config user.name
-          USER_EMAIL: git config user.email          
+          WORKSPACE_NAME: "just-noticeable"         
           
         run: |
   
@@ -67,6 +65,9 @@ jobs:
           REPO_NAME="${GITHUB_REPOSITORY##*/}"
           
           # git user.name and user.email
+          USER_NAME < git config user.name
+          USER_EMAIL < git config user.email
+          
           echo "With user.name as: ${USER_NAME}, and user.email as: ${USER_EMAIL}"
 
           # Construct the Bitbucket SSH URL
