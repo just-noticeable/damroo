@@ -71,12 +71,10 @@ jobs:
 
           echo "Mirroring to: ${BITBUCKET_URL}"
 
-          # Add the Bitbucket remote
-          
-          #git remote add bitbucket "${BITBUCKET_URL}"
+          # Add the Bitbucket remote         
+          git remote add bitbucket "${BITBUCKET_URL}"
 
           # Push all branches and tags to Bitbucket
-          # --mirror pushes all refs; --force ensures diverged histories are overwritten
-          
-          #git push bitbucket --all --force
-          #git push bitbucket --tags --force
+          # --mirror pushes all refs; --force ensures diverged histories are overwritten          
+          git push bitbucket --all --force
+          git push bitbucket --tags --force
