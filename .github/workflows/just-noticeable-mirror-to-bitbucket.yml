@@ -47,11 +47,14 @@ jobs:
       - name: Push to Bitbucket
         env:
           WORKSPACE_NAME="space-b"
-          echo "Workspace name = ${WORKSPACE_NAME}"
+          
         run: |
+        
+          echo "Workspace name = ${WORKSPACE_NAME}"
+          
           # Derive the repo name from the GitHub repository variable
           # GITHUB_REPOSITORY is in the format "Org-A/Repo-1"
-          
+
           REPO_NAME="${GITHUB_REPOSITORY##*/}"
 
           # Construct the Bitbucket SSH URL
