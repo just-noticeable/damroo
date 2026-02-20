@@ -35,6 +35,7 @@ jobs:
           SSH_AUTH_SOCK: /tmp/ssh_agent.sock
           
         run: |
+        
           mkdir -p ~/.ssh
           
           echo "${{ secrets.BITBUCKET_SSH_PRIVATE_KEY }}" > ~/.ssh/github_actions
@@ -47,6 +48,7 @@ jobs:
       # chmod 600 — Strictly private — only the owner can read or write
       - name: Add Bitbucket to Known Hosts
         run: |
+        
           ssh-keyscan bitbucket.org >> ~/.ssh/known_hosts
           chmod 600 ~/.ssh/known_hosts 
 
@@ -65,15 +67,15 @@ jobs:
           REPO_NAME="${GITHUB_REPOSITORY##*/}"
           
           # git user.name and user.email
-          USER_NAME < git config user.name
-          USER_EMAIL < git config user.email
+          #USER_NAME="${GIT_SSH_USER_NAME}"
+          #USER_EMAIL="${GIT_SSH_USER_EMAIL}"
           
           echo "With user.name as: ${USER_NAME}, and user.email as: ${USER_EMAIL}"
 
           # Construct the Bitbucket SSH URL
           # "Space-B/Repo-1" in Bitbucket is "Org-A/Repo-1" in Github  
           # Format: git@bitbucket.org:<workspace>/<repo>.git
-          BITBUCKET_URL="git@bitbucket.org:${WORKSPACE_NAME}/${REPO_NAME}.git"
+          BITBUCKET_URL="ssh://git@bitbucket.org:${WORKSPACE_NAME}/${REPO_NAME}.git"
 
           echo "Mirroring to: ${BITBUCKET_URL}"
 
