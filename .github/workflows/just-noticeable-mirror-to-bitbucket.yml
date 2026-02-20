@@ -53,7 +53,9 @@ jobs:
       # Step 4: Push all branches and tags to the corresponding Bitbucket repo
       - name: Push to Bitbucket 
         env: 
-          WORKSPACE_NAME : "just-noticeable" 
+          WORKSPACE_NAME: "just-noticeable"
+          USER_NAME: git config user.name
+          USER_EMAIL: git config user.email          
           
         run: |
   
@@ -63,6 +65,9 @@ jobs:
           # GITHUB_REPOSITORY is in the format "Repo-1/"
 
           REPO_NAME="${GITHUB_REPOSITORY##*/}"
+          
+          # git user.name and user.email
+          echo "With user.name as: ${USER_NAME}, and user.email as: ${USER_EMAIL}"
 
           # Construct the Bitbucket SSH URL
           # "Space-B/Repo-1" in Bitbucket is "Org-A/Repo-1" in Github  
@@ -76,5 +81,5 @@ jobs:
 
           # Push all branches and tags to Bitbucket
           # --mirror pushes all refs; --force ensures diverged histories are overwritten          
-          git push bitbucket --all --force
-          git push bitbucket --tags --force
+          #git push bitbucket --all --force
+          #git push bitbucket --tags --force
