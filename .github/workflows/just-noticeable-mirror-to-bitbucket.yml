@@ -59,7 +59,7 @@ jobs:
           
         run: |
   
-          echo "Bitbucket workspace name = ${WORKSPACE_NAME}"
+          echo "Bitbucket workspace name: ${WORKSPACE_NAME}"
           
           # Obtain the repo name from the GitHub repository variable
           # GITHUB_REPOSITORY is in the format "Repo-1/"
@@ -67,7 +67,7 @@ jobs:
 
           # Construct the Bitbucket SSH URL
           # "Space-B/Repo-1" in Bitbucket is "Org-A/Repo-1" in Github          
-          BITBUCKET_URL="ssh://git@bitbucket.org:${WORKSPACE_NAME}/${REPO_NAME}.git"
+          BITBUCKET_URL="ssh://git@bitbucket.org/${WORKSPACE_NAME}/${REPO_NAME}.git"
 
           echo "Mirroring to: ${BITBUCKET_URL}"
 
